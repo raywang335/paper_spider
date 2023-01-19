@@ -10,7 +10,7 @@
 #### Installation
 
 - Python >= 3.8
-- pip install -r requirement.txt
+- pip install -r requirements.txt
 
 #### Example
 
