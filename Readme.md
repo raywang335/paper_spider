@@ -31,11 +31,11 @@ if __name__ == "__main__":
 
 - **Done:**
 
-1. Support for CVPR, ECCV, ICLR, ICML.
+1. Support for CVPR, ECCV, ICLR, ICML, AAAI, ICCV, NeurlPS.
 2. Supports multi-process acceleration.
 3. Support for supplementary material crawling.
 
 - **To do**
 
-1. Support for AAAI, ACM MM, ICCV, NeurlPS.
+1. Support for ACM MM.
 2. PDF merge between the main text and supplementary material.
