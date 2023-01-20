@@ -70,7 +70,7 @@ class Spider():
         for unit in self.url_list:
             self.get_pdf(unit)
 
-    def thread_spider(self):
+    def process_spider(self):
         process_pool = ProcessPoolExecutor(max_workers = self.num_workers)
         process_pool.map(self.get_pdf, self.url_list)
 
@@ -91,7 +91,7 @@ class Spider():
         start = end
         if mode == 'single':
             self.single_spider()
-        elif mode == "thread":
+        elif mode == "process":
             self.thread_spider()
         end = time.time()
         print("Finish! Time Consume: {:3f}".format(end - start))
@@ -174,6 +174,55 @@ class CVPR_spider(Spider):
                     supp = line.strip()
             index.close()
 
+class ICCV_spider(Spider):
+    def __init__(self, home_page, target_prefix_page, work_root="./", name="ICCV", num_workers=5):
+        super(ICCV_spider, self).__init__(work_root=work_root, name=name, num_workers=num_workers)
+        self.home_page = home_page
+        self.target_prefix_page = target_prefix_page
+        self.target_dir = os.path.join(self.root, self.name)
+        if not os.path.exists(self.target_dir):
+            os.mkdir(self.target_dir)
+        self.target_file_name = os.path.join(self.target_dir, self.get_name() + "_pdf_list.txt")
+        self.target_idx_to_paper_name = os.path.join(self.target_dir, self.get_name() + "_idx_to_paper.txt")
+
+    def get_pdf_list_file(self):
+        f = open(self.target_file_name, 'w+')
+        response = requests.get(url=self.home_page)
+        if response.content:
+            soup = bs4.BeautifulSoup(response.text, features="lxml")
+            ele_list = soup.select("dd")
+            for ele in ele_list:
+                if 'pdf' in ele.text or 'supp' in ele.text:
+                    href = ele.findAll("a")
+                    if "pdf" in href[0].text:
+                        paper = href[0].get('href')
+                        f.write(self.target_prefix_page + paper[1:] + "\n")
+                    if "supp" in href[1].text:
+                        supp = href[1].get('href') 
+                        f.write(self.target_prefix_page + supp[1:] + "\n")
+                    f.write("\n")
+        f.close()
+
+    def get_idx_to_paper_file(self):
+        index = open(self.target_idx_to_paper_name,"w+")
+        url_list = []
+        with open(self.target_file_name,"r") as fpdf:
+            paper = None
+            supp = None
+            paper_cnt = 0
+            for line in fpdf.readlines():
+                if line == "\n":
+                    paper_cnt += 1
+                    title =  " ".join(paper.split("/")[-1].split("_")[1:-3])
+                    index.write(str(paper_cnt) +" "+title+"\n")
+                    self.url_list.append((str(paper_cnt), paper, supp))
+                    paper = None
+                    supp = None
+                elif paper is None: 
+                    paper = line.strip()
+                else:
+                    supp = line.strip()
+            index.close()
 
 class ECCV_spider(Spider):
     def __init__(self, home_page, target_prefix_page, work_root="./", name="ECCV", num_workers=5):
@@ -330,8 +379,8 @@ class AAAI_spider(Spider):
             soup = bs4.BeautifulSoup(response.text, features="lxml")
             ele_list = soup.select('ul.publ-list')
             # by hand
-            target_list = []
-            for idx in tqdm([2]):
+            target_list = [2,3,4] # only vision-related
+            for idx in tqdm(target_list):
                 ele = ele_list[idx]
                 papers_info = ele.select("li.entry.inproceedings")
                 for paper in papers_info:
@@ -410,6 +459,63 @@ class ICML_spider(Spider):
                     paper = line.strip()
             index.close()
 
+class NeurlPS_spider(Spider):
+    def __init__(self, home_page, target_prefix_page, work_root="./", name="NeurlPS", num_workers=5):
+        super(NeurlPS_spider, self).__init__(work_root=work_root, name=name, num_workers=num_workers)
+        self.home_page = home_page
+        self.target_prefix_page = target_prefix_page
+        self.target_dir = os.path.join(self.root, self.name)
+        if not os.path.exists(self.target_dir):
+            os.mkdir(self.target_dir)
+        self.target_file_name = os.path.join(self.target_dir, self.get_name() + "_pdf_list.txt")
+        self.target_idx_to_paper_name = os.path.join(self.target_dir, self.get_name() + "_idx_to_paper.txt")
+
+    def get_pdf_list_file(self):
+        f = open(self.target_file_name, 'w+', encoding='utf-8')
+        path = "/snap/bin/chromium.chromedriver"
+        driver = webdriver.Chrome(path)
+        driver.get(self.home_page)
+        crawl_id = self.home_page.split("#")[-1]
+        cond = EC.presence_of_element_located((By.XPATH, '//*[@id="accepted-papers"]/ul/li[1]'))
+        WebDriverWait(driver, 10000).until(cond)
+        # by hand
+        for page in tqdm(range(1, 55)):
+            elems = driver.find_elements(By.XPATH,'//*[@id="accepted-papers"]/ul/li')
+            for i, elem in enumerate(elems):
+                title_ele = elem.find_element(By.XPATH,'./h4/a[1]')
+                paper_link = elem.find_element(By.XPATH,'./h4/a[2]').get_attribute('href')
+                title = title_ele.text.strip()
+                f.write('###' + title + "\n")
+                f.write(paper_link + "\n")
+                f.write("\n")
+            try:
+                target = driver.find_element(By.XPATH, '//*[@id="accepted-papers"]/nav/ul/li[13]').click()
+                time.sleep(4) # NOTE: increase sleep time if needed
+                cond = EC.presence_of_element_located((By.XPATH, '//*[@id="accepted-papers"]/ul/li[1]'))
+                WebDriverWait(driver, 10000).until(cond)
+            except:
+                print("Crawl Finish!")
+                break
+        f.close()
+
+    def get_idx_to_paper_file(self):
+        index = open(self.target_idx_to_paper_name,"w+", encoding='utf-8')
+        url_list = []
+        with open(self.target_file_name,"r", encoding='utf-8') as fpdf:
+            paper = None
+            title = None
+            paper_cnt = 0
+            for line in fpdf.readlines():
+                if line == "\n":
+                    paper_cnt += 1
+                    index.write(str(paper_cnt) +" "+title+"\n")
+                    self.url_list.append((str(paper_cnt), paper))
+                    paper = None
+                elif line.startswith("###"):
+                    title = line.strip()[3:]
+                elif paper is None: 
+                    paper = line.strip()
+            index.close()
 
 '''
     CVPR home page: https://openaccess.thecvf.com/CVPR2022?day=all
@@ -424,8 +530,14 @@ class ICML_spider(Spider):
     ICML home page: http://proceedings.mlr.press/v162/
          prefix page: ""
 
-    AAAI (not done) home page: https://dblp.uni-trier.de/db/conf/aaai/aaai2022.html
+    AAAI home page: https://dblp.uni-trier.de/db/conf/aaai/aaai2022.html
          prefix page: ""
+    
+    NeurlPS home page: https://openreview.net/group?id=NeurIPS.cc/2022/Conference
+            sub page: "https://openreview.net/"
+    
+    ICCV home page: https://openaccess.thecvf.com/ICCV2021?day=all
+         sub page: https://openaccess.thecvf.com/
 
     Recent Test: 1.18, 2023
     By hand -> Need to check out the webpage of conference to get some parameters manually
@@ -433,7 +545,7 @@ class ICML_spider(Spider):
 '''
 
 if __name__ == "__main__":
-    home_page = "https://openaccess.thecvf.com/CVPR2022?day=all"
-    target_prefix_page = "https://openaccess.thecvf.com/"
-    cvpr_spider = ICML_spider(home_page=home_page, target_prefix_page=target_prefix_page)
+    home_page = "https://openaccess.thecvf.com/ICCV2021?day=all"
+    target_prefix_page = "https://openreview.net/"
+    cvpr_spider = ICCV_spider(home_page=home_page, target_prefix_page=target_prefix_page)
     cvpr_spider()

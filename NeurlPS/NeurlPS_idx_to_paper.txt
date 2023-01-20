@@ -1,0 +1,50 @@
+1 Statistical Learning and Inverse Problems: A Stochastic Gradient Approach
+2 Efficiency Ordering of Stochastic Gradient Descent
+3 Self-Aware Personalized Federated Learning
+4 Nonnegative Tensor Completion via Integer Optimization
+5 TPU-KNN: K Nearest Neighbor Search at Peak FLOP/s
+6 Equivariant Networks for Crystal Structures
+7 Gradient Descent Is Optimal Under Lower Restricted Secant Inequality And Upper Error Bound
+8 Decoupled Context Processing for Context Augmented Language Modeling
+9 Planning to the Information Horizon of BAMDPs via Epistemic State Abstraction
+10 Trust Region Policy Optimization with Optimal Transport Discrepancies: Duality and Algorithm for Continuous Actions
+11 Modeling Transitivity and Cyclicity in Directed Graphs via Binary Code Box Embeddings
+12 Simple and Optimal Greedy Online Contention Resolution Schemes
+13 Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts
+14 COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics
+15 From Gradient Flow on Population Loss to Learning with Stochastic Gradient Descent
+16 Fast Neural Kernel Embeddings for General Activations
+17 On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting
+18 Provably tuning the ElasticNet across instances
+19 LAMP: Extracting Text from Gradients with Language Model Priors
+20 ELIGN: Expectation Alignment as a Multi-Agent Intrinsic Reward
+21 Explicable Policy Search
+22 A Practical, Progressively-Expressive GNN
+23 The Impact of Task Underspecification in Evaluating Deep Reinforcement Learning
+24 Chaotic Dynamics are Intrinsic to Neural Network Training with SGD
+25 A PAC-Bayesian Generalization Bound for Equivariant Networks
+26 Autoregressive Perturbations for Data Poisoning
+27 Near-Optimal No-Regret Learning Dynamics for General Convex Games
+28 Learning the Structure of Large Networked Systems Obeying Conservation Laws
+29 Neural Payoff Machines: Predicting Fair and Stable Payoff Allocations Among Team Members
+30 Implicit Neural Representations with Levels-of-Experts
+31 LieGG: Studying Learned Lie Group Generators
+32 Local Bayesian optimization via maximizing probability of descent
+33 A Closer Look at Learned Optimization: Stability, Robustness, and Inductive Biases
+34 Empirical Gateaux Derivatives for Causal Inference
+35 Adaptive Interest for Emphatic Reinforcement Learning
+36 Human-Robotic Prosthesis as Collaborating Agents for Symmetrical Walking
+37 Uni[MASK]: Unified Inference in Sequential Decision Problems
+38 Leveraging the Hints: Adaptive Bidding in Repeated First-Price Auctions
+39 ReCo: Retrieve and Co-segment for Zero-shot Transfer
+40 Boosting the Performance of Generic Deep Neural Network Frameworks with Log-supermodular CRFs
+41 End-to-end Stochastic Optimization with Energy-based Model
+42 EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL
+43 A Causal Analysis of Harm
+44 On-Demand Sampling: Learning Optimally from Multiple Distributions
+45 Logical Activation Functions: Logit-space equivalents of Probabilistic Boolean Operators
+46 Dynamic pricing and assortment under a contextual MNL demand
+47 Off-Team Learning
+48 A Deep Reinforcement Learning Framework for Column Generation
+49 Sublinear Algorithms for Hierarchical Clustering
+50 A Few Expert Queries Suffices for Sample-Efficient RL with Resets and Linear Value Approximation

@@ -10,11 +10,11 @@
 #### Installation
 
 - Python >= 3.8
-- pip install -r requirements.txt
+- pip install -r requirement.txt
 
 #### Example
 
-Now if you wanna get all 2022 CVPR papers,  you should:
+Now you wanna get all 2022 CVPR papers,  you should:
 
 1. change home_page and target_prefix_page;
 2. Initialize instance, like CVPR_spider().

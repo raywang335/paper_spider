@@ -1,0 +1,1645 @@
+1 Learning Depth from Focus in the Wild
+2 Learning-Based Point Cloud Registration for 6D Object Pose Estimation in the Real World
+3 An End-to-End Transformer Model for Crowd Localization
+4 Few-Shot Single-View 3D Reconstruction with Memory Prior Contrastive Network
+5 DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection
+6 Adaptive Co-Teaching for Unsupervised Monocular Depth Estimation
+7 Fusing Local Similarities for Retrieval-Based 3D Orientation Estimation of Unseen Objects
+8 Lidar Point Cloud Guided Monocular 3D Object Detection
+9 Structural Causal 3D Reconstruction
+10 3D Human Pose Estimation Using Möbius Graph Convolutional Networks
+11 Learning to Train a Point Cloud Reconstruction Network without Matching
+12 PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation
+13 Self-supervised Human Mesh Recovery with Cross-Representation Alignment
+14 AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction
+15 A Reliable Online Method for Joint Estimation of Focal Length and Camera Rotation
+16 PS-NeRF: Neural Inverse Rendering for Multi-View Photometric Stereo
+17 Share with Thy Neighbors: Single-View Reconstruction by Cross-Instance Consistency
+18 Towards Comprehensive Representation Enhancement in Semantics-Guided Self-Supervised Monocular Depth Estimation
+19 AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture
+20 Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers
+21 GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping
+22 Multi-modal Masked Pre-training for Monocular Panoramic Depth Completion
+23 GitNet: Geometric Prior-Based Transformation for Birds-Eye-View Segmentation
+24 Learning Visibility for Robust Dense Human Body Estimation
+25 Towards High-Fidelity Single-View Holistic Reconstruction of Indoor Scenes
+26 CompNVS: Novel View Synthesis with Scene Completion
+27 SketchSampler: Sketch-Based 3D Reconstruction via View-Dependent Depth Sampling
+28 LocalBins: Improving Depth Estimation by Learning Local Distributions
+29 2D GANs Meet Unsupervised Single-View 3D Reconstruction
+30 InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images
+31 Semi-Supervised Single-View 3D Reconstruction via Prototype Shape Priors
+32 Bilateral Normal Integration
+33 S$^2$Contact: Graph-Based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning
+34 SC-wLS: Towards Interpretable Feed-Forward Camera Re-localization
+35 FloatingFusion: Depth from ToF and Image-Stabilized Stereo Cameras
+36 DELTAR: Depth Estimation from a Light-Weight ToF Sensor and RGB Image
+37 3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform
+38 RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation
+39 Monocular 3D Object Reconstruction with GAN Inversion
+40 Map-Free Visual Relocalization: Metric Pose Relative to a Single Image
+41 Self-Distilled Feature Aggregation for Self-Supervised Monocular Depth Estimation
+42 Planes vs. Chairs: Category-Guided 3D Shape Learning without Any 3D Cues
+43 MHR-Net: Multiple-Hypothesis Reconstruction of Non-rigid Shapes from 2D Views
+44 Depth Map Decomposition for Monocular Depth Estimation
+45 Monitored Distillation for Positive Congruent Depth Completion
+46 Resolution-Free Point Cloud Sampling Network with Data Distillation
+47 Organic Priors in Non-rigid Structure from Motion
+48 Perspective Flow Aggregation for Data-Limited 6D Object Pose Estimation
+49 DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks
+50 "CHORE: Contact, Human and Object REconstruction from a Single RGB Image"
+51 Learned Vertex Descent: A New Direction for 3D Human Model Fitting
+52 Self-Calibrating Photometric Stereo by Neural Inverse Rendering
+53 3D Clothed Human Reconstruction in the Wild
+54 Directed Ray Distance Functions for 3D Scene Reconstruction
+55 Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation from Monocular RGB Image
+56 Uncertainty Quantification in Depth Estimation via Constrained Ordinal Regression
+57 CostDCNet: Cost Volume Based Depth Completion for a Single RGB-D Image
+58 "ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization"
+59 3D Siamese Transformer Network for Single Object Tracking on Point Clouds
+60 Object Wake-Up: 3D Object Rigging from a Single Image
+61 IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-View Human Reconstruction
+62 Realistic One-Shot Mesh-Based Head Avatars
+63 A Kendall Shape Space Approach to 3D Shape Estimation from 2D Landmarks
+64 Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion
+65 Perspective Phase Angle Model for Polarimetric 3D Reconstruction
+66 DeepShadow: Neural Shape from Shadow
+67 Camera Auto-Calibration from the Steiner Conic of the Fundamental Matrix
+68 Super-Resolution 3D Human Shape from a Single Low-Resolution Image
+69 Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion
+70 ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing
+71 CATRE: Iterative Point Clouds Alignment for Category-Level Object Pose Refinement
+72 Optimization over Disentangled Encoding: Unsupervised Cross-Domain Point Cloud Completion via Occlusion Factor Manipulation
+73 Unsupervised Learning of 3D Semantic Keypoints with Mutual Reconstruction
+74 MvDeCor: Multi-View Dense Correspondence Learning for Fine-Grained 3D Segmentation
+75 SUPR: A Sparse Unified Part-Based Human Representation
+76 Revisiting Point Cloud Simplification: A Learnable Feature Preserving Approach
+77 Masked Autoencoders for Point Cloud Self-Supervised Learning
+78 Intrinsic Neural Fields: Learning Functions on Manifolds
+79 Skeleton-Free Pose Transfer for Stylized 3D Characters
+80 Masked Discrimination for Self-Supervised Learning on Point Clouds
+81 FBNet: Feedback Network for Point Cloud Completion
+82 Meta-Sampler: Almost-Universal yet Task-Oriented Sampling for Point Clouds
+83 A Level Set Theory for Neural Implicit Evolution under Explicit Flows
+84 Efficient Point Cloud Analysis Using Hilbert Curve
+85 TOCH: Spatio-Temporal Object-to-Hand Correspondence for Motion Refinement
+86 LaTeRF: Label and Text Driven Object Radiance Fields
+87 MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis
+88 Unsupervised Deep Multi-Shape Matching
+89 Texturify: Generating Textures on 3D Shape Surfaces
+90 Autoregressive 3D Shape Generation via Canonical Mapping
+91 PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees
+92 UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation
+93 PRIF: Primary Ray-Based Implicit Function
+94 Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction
+95 CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes
+96 PlaneFormers: From Sparse View Planes to 3D Reconstruction
+97 Learning Implicit Templates for Point-Based Clothed Human Modeling
+98 Exploring the Devil in Graph Spectral Domain for 3D Point Cloud Attacks
+99 Structure-Aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation
+100 MoFaNeRF: Morphable Facial Neural Radiance Field
+101 PointInst3D: Segmenting 3D Instances by Points
+102 Cross-Modal 3D Shape Generation and Manipulation
+103 Latent Partition Implicit with Surface Codes for 3D Representation
+104 Implicit Field Supervision for Robust Non-rigid Shape Matching
+105 Learning Self-Prior for Mesh Denoising Using Dual Graph Convolutional Networks
+106 diffConv: Analyzing Irregular Point Clouds with an Irregular View
+107 PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows
+108 SeedFormer: Patch Seeds Based Point Cloud Completion with Upsample Transformer
+109 DeepMend: Learning Occupancy Functions to Represent Shape for Repair
+110 A Repulsive Force Unit for Garment Collision Handling in Neural Networks
+111 Shape-Pose Disentanglement Using SE(3)-Equivariant Vector Neurons
+112 3D Equivariant Graph Implicit Functions
+113 PatchRD: Detail-Preserving Shape Completion by Learning Patch Retrieval and Deformation
+114 3D Shape Sequence of Human Comparison and Classification Using Current and Varifolds
+115 Conditional-Flow NeRF: Accurate 3D Modelling with Reliable Uncertainty Quantification
+116 Unsupervised Pose-Aware Part Decomposition for Man-Made Articulated Objects
+117 MeshUDF: Fast and Differentiable Meshing of Unsigned Distance Field Networks
+118 SPE-Net: Boosting Point Cloud Analysis via Rotation Robustness Enhancement
+119 The Shape Part Slot Machine: Contact-Based Reasoning for Generating 3D Shapes from Parts
+120 Spatiotemporal Self-Attention Modeling with Temporal Patch Shift for Action Recognition
+121 Proposal-Free Temporal Action Detection via Global Segmentation Mask Learning
+122 Semi-Supervised Temporal Action Detection with Proposal-Free Masking
+123 Zero-Shot Temporal Action Detection via Vision-Language Prompting
+124 CycDA: Unsupervised Cycle Domain Adaptation to Learn from Image to Video
+125 S2N: Suppression-Strengthen Network for Event-Based Recognition under Variant Illuminations
+126 CMD: Self-Supervised 3D Action Representation Learning with Cross-Modal Mutual Distillation
+127 Expanding Language-Image Pretrained Models for General Video Recognition
+128 Hunting Group Clues with Transformers for Social Group Activity Recognition
+129 Contrastive Positive Mining for Unsupervised 3D Action Representation Learning
+130 Target-Absent Human Attention
+131 Uncertainty-Based Spatial-Temporal Attention for Online Action Detection
+132 Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows
+133 Rethinking Zero-Shot Action Recognition: Learning from Latent Atomic Actions
+134 Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection
+135 Collaborating Domain-Shared and Target-Specific Feature Clustering for Cross-Domain 3D Action Recognition
+136 Is Appearance Free Action Recognition Possible?
+137 Learning Spatial-Preserved Skeleton Representations for Few-Shot Action Recognition
+138 Dual-Evidential Learning for Weakly-Supervised Temporal Action Localization
+139 Global-Local Motion Transformer for Unsupervised Skeleton-Based Action Learning
+140 AdaFocusV3: On Unified Spatial-Temporal Dynamic Video Recognition
+141 Panoramic Human Activity Recognition
+142 Delving into Details: Synopsis-to-Detail Networks for Video Recognition
+143 A Generalized \& Robust Framework for Timestamp Supervision in Temporal Action Segmentation
+144 Few-Shot Action Recognition with Hierarchical Matching and Contrastive Learning
+145 PrivHAR: Recognizing Human Actions from Privacy-Preserving Lens
+146 Scale-Aware Spatio-Temporal Relation Learning for Video Anomaly Detection
+147 Compound Prototype Matching for Few-Shot Action Recognition
+148 Continual 3D Convolutional Neural Networks for Real-Time Processing of Videos
+149 Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition
+150 Dynamic Local Aggregation Network with Adaptive Clusterer for Anomaly Detection
+151 Action Quality Assessment with Temporal Parsing Transformer
+152 Entry-Flipped Transformer for Inference and Prediction of Participant Behavior
+153 Pairwise Contrastive Learning Network for Action Quality Assessment
+154 Geometric Features Informed Multi-Person Human-Object Interaction Recognition in Videos
+155 ActionFormer: Localizing Moments of Actions with Transformers
+156 SocialVAE: Human Trajectory Prediction Using Timewise Latents
+157 Shape Matters: Deformable Patch Attack
+158 Frequency Domain Model Augmentation for Adversarial Attack
+159 Prior-Guided Adversarial Initialization for Fast Adversarial Training
+160 Enhanced Accuracy and Robustness via Multi-Teacher Adversarial Distillation
+161 LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity
+162 A Large-Scale Multiple-Objective Method for Black-Box Attack against Object Detection
+163 GradAuto: Energy-Oriented Attack on Dynamic Neural Networks
+164 A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness
+165 Improving Adversarial Robustness of 3D Point Cloud Classification Models
+166 Learning Extremely Lightweight and Robust Model with Differentiable Constraints on Sparsity and Condition Number
+167 RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN
+168 Boosting Transferability of Targeted Adversarial Examples via Hierarchical Generative Networks
+169 Adaptive Image Transformations for Transfer-Based Adversarial Attack
+170 Generative Multiplane Images: Making a 2D GAN 3D-Aware
+171 AdvDO: Realistic Adversarial Attacks for Trajectory Prediction
+172 Adversarial Contrastive Learning via Asymmetric InfoNCE
+173 One Size Does NOT Fit All: Data-Adaptive Adversarial Training
+174 UniCR: Universally Approximated Certified Robustness via Randomized Smoothing
+175 Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips
+176 Robust Network Architecture Search via Feature Distortion Restraining
+177 SecretGen: Privacy Recovery on Pre-trained Models via Distribution Discrimination
+178 Triangle Attack: A Query-Efficient Decision-Based Adversarial Attack
+179 Data-Free Backdoor Removal Based on Channel Lipschitzness
+180 Black-Box Dissector: Towards Erasing-Based Hard-Label Model Stealing Attack
+181 Learning Energy-Based Models with Adversarial Training
+182 Adversarial Label Poisoning Attack on Graph Neural Networks via Label Propagation
+183 Revisiting Outer Optimization in Adversarial Training
+184 Zero-Shot Attribute Attacks on Fine-Grained Recognition Models
+185 Towards Effective and Robust Neural Trojan Defenses via Input Filtering
+186 Scaling Adversarial Training to Large Perturbation Bounds
+187 Exploiting the Local Parabolic Landscapes of Adversarial Losses to Accelerate Black-Box Adversarial Attack
+188 Generative Domain Adaptation for Face Anti-Spoofing
+189 MetaGait: Learning to Learn an Omni Sample Adaptive Representation for Gait Recognition
+190 GaitEdge: Beyond Plain End-to-End Gait Recognition for Better Practicality
+191 UIA-ViT: Unsupervised Inconsistency-Aware Method Based on Vision Transformer for Face Forgery Detection
+192 Effective Presentation Attack Detection Driven by Face Related Task
+193 PPT: Token-Pruned Pose Transformer for Monocular and Multi-View Human Pose Estimation
+194 AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing
+195 P-STMO: Pre-trained Spatial Temporal Many-to-One Model for 3D Human Pose Estimation
+196 D\&D: Learning Human Dynamics from Dynamic Camera
+197 Explicit Occlusion Reasoning for Multi-Person 3D Human Pose Estimation
+198 COUCH: Towards Controllable Human-Chair Interactions
+199 Identity-Aware Hand Mesh Estimation and Personalization from RGB Images
+200 C3P: Cross-Domain Pose Prior Propagation for Weakly Supervised 3D Human Pose Estimation
+201 Pose-NDF: Modeling Human Pose Manifolds with Neural Distance Fields
+202 CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation
+203 DeciWatch: A Simple Baseline for 10× Efficient 2D and 3D Pose Estimation
+204 SmoothNet: A Plug-and-Play Network for Refining Human Poses in Videos
+205 PoseTrans: A Simple yet Effective Pose Transformation Augmentation for Human Pose Estimation
+206 Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement
+207 Overlooked Poses Actually Make Sense: Distilling Privileged Knowledge for Human Motion Prediction
+208 Structural Triangulation: A Closed-Form Solution to Constrained 3D Human Pose Estimation
+209 Audio-Driven Stylized Gesture Generation with Flow-Based Model
+210 Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation
+211 UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture
+212 Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction
+213 Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation
+214 VirtualPose: Learning Generalizable 3D Human Pose Models from Virtual Data
+215 Poseur: Direct Human Pose Regression with Transformers
+216 SimCC: A Simple Coordinate Classification Perspective for Human Pose Estimation
+217 Regularizing Vector Embedding in Bottom-Up Human Pose Estimation
+218 A Visual Navigation Perspective for Category-Level Object Pose Estimation
+219 Faster VoxelPose: Real-Time 3D Human Pose Estimation by Orthographic Projection
+220 Learning to Fit Morphable Models
+221 EgoBody: Human Body Shape and Motion of Interacting People from Head-Mounted Devices
+222 Grasp'D: Differentiable Contact-Rich Grasp Synthesis for Multi-Fingered Hands
+223 AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling
+224 Deep Radial Embedding for Visual Sequence Learning
+225 SAGA: Stochastic Whole-Body Grasping with Contact
+226 Neural Capture of Animatable 3D Human from Monocular Video
+227 General Object Pose Transformation Network from Unpaired Data
+228 Compositional Human-Scene Interaction Synthesis with Semantic Control
+229 PressureVision: Estimating Hand Pressure from a Single RGB Image
+230 PoseScript: 3D Human Poses from Natural Language
+231 DProST: Dynamic Projective Spatial Transformer Network for 6D Pose Estimation
+232 3D Interacting Hand Pose Estimation by Hand De-Occlusion and Removal
+233 Pose for Everything: Towards Category-Agnostic Pose Estimation
+234 PoseGPT: Quantization-Based 3D Human Motion Generation and Forecasting
+235 DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation
+236 Estimating Spatially-Varying Lighting in Urban Scenes with Disentangled Representation
+237 Boosting Event Stream Super-Resolution with a Recurrent Neural Network
+238 Projective Parallel Single-Pixel Imaging to Overcome Global Illumination in 3D Structure Light Scanning
+239 Semantic-Sparse Colorization Network for Deep Exemplar-Based Colorization
+240 Practical and Scalable Desktop-Based High-Quality Facial Capture
+241 FAST-VQA: Efficient End-to-End Video Quality Assessment with Fragment Sampling
+242 Physically-Based Editing of Indoor Scene Lighting from a Single Image
+243 LEDNet: Joint Low-Light Enhancement and Deblurring in the Dark
+244 MPIB: An MPI-Based Bokeh Rendering Framework for Realistic Partial Occlusion Effects
+245 Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset
+246 Transform Your Smartphone into a DSLR Camera: Learning the ISP in the Wild
+247 Learning Deep Non-Blind Image Deconvolution without Ground Truths
+248 NEST: Neural Event Stack for Event-Based Image Enhancement
+249 Editable Indoor Lighting Estimation
+250 Fast Two-Step Blind Optical Aberration Correction
+251 Seeing Far in the Dark with Patterned Flash
+252 PseudoClick: Interactive Image Segmentation with Click Imitation
+253 CT$^2$: Colorization Transformer via Color Tokens
+254 Simple Baselines for Image Restoration
+255 Spike Transformer: Monocular Depth Estimation for Spiking Camera
+256 Improving Image Restoration by Revisiting Global Information Aggregation
+257 Data Association between Event Streams and Intensity Frames under Diverse Baselines
+258 D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration
+259 Learning Graph Neural Networks for Image Style Transfer
+260 DeepPS2: Revisiting Photometric Stereo Using Two Differently Illuminated Images
+261 Instance Contour Adjustment via Structure-Driven CNN
+262 Synthesizing Light Field Video from Monocular Video
+263 Human-Centric Image Cropping with Partition-Aware and Content-Preserving Features
+264 DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting
+265 Neural Image Representations for Multi-Image Fusion and Layer Separation
+266 Bringing Rolling Shutter Images Alive with Dual Reversed Distortion
+267 FILM: Frame Interpolation for Large Motion
+268 Video Interpolation by Event-Driven Anisotropic Adjustment of Optical Flow
+269 EvAC3D: From Event-Based Apparent Contours to 3D Models via Continuous Visual Hulls
+270 DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization
+271 SelectionConv: Convolutional Neural Networks for Non-Rectilinear Image Data
+272 Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization
+273 BigColor: Colorization Using a Generative Color Prior for Natural Images
+274 CADyQ: Content-Aware Dynamic Quantization for Image Super-Resolution
+275 Deep Semantic Statistics Matching (D2SM) Denoising Network
+276 3D Scene Inference from Transient Histograms
+277 Neural Space-Filling Curves
+278 Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging
+279 Seeing through a Black Box: Toward High-Quality Terahertz Imaging via Subspace-and-Attention Guided Restoration
+280 Tomography of Turbulence Strength Based on Scintillation Imaging
+281 Realistic Blur Synthesis for Learning Image Deblurring
+282 Learning Phase Mask for Privacy-Preserving Passive Depth Estimation
+283 LWGNet – Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval
+284 PANDORA: Polarization-Aided Neural Decomposition of Radiance
+285 HuMMan: Multi-modal 4D Human Dataset for Versatile Sensing and Modeling
+286 DVS-Voltmeter: Stochastic Process-Based Event Simulator for Dynamic Vision Sensors
+287 Benchmarking Omni-Vision Representation through the Lens of Visual Realms
+288 BEAT: A Large-Scale Semantic and Emotional Multi-modal Dataset for Conversational Gestures Synthesis
+289 Neuromorphic Data Augmentation for Training Spiking Neural Networks
+290 CelebV-HQ: A Large-Scale Video Facial Attributes Dataset
+291 MovieCuts: A New Dataset and Benchmark for Cut Type Recognition
+292 LaMAR: Benchmarking Localization and Mapping for Augmented Reality
+293 "Unitail: Detecting, Reading, and Matching in Retail Scene"
+294 Not Just Streaks: Towards Ground Truth for Single Image Deraining
+295 ECCV Caption: Correcting False Negatives by Collecting Machine-and-Human-Verified Image-Caption Associations for MS-COCO
+296 MOTCOM: The Multi-Object Tracking Dataset Complexity Metric
+297 How to Synthesize a Large-Scale and Trainable Micro-Expression Dataset?
+298 A Real World Dataset for Multi-View 3D Reconstruction
+299 REALY: Rethinking the Evaluation of 3D Face Reconstruction
+300 "Capturing, Reconstructing, and Simulating: The UrbanScene3D Dataset"
+301 3D CoMPaT: Composition of Materials on Parts of 3D Things
+302 "PartImageNet: A Large, High-Quality Dataset of Parts"
+303 A-OKVQA: A Benchmark for Visual Question Answering Using World Knowledge
+304 OOD-CV: A Benchmark for Robustness to Out-of-Distribution Shifts of Individual Nuisances in Natural Images
+305 Facial Depth and Normal Estimation Using Single Dual-Pixel Camera
+306 The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing
+307 StyleBabel: Artistic Style Tagging and Captioning
+308 PANDORA: A Panoramic Detection Dataset for Object with Orientation
+309 FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context
+310 Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset
+311 The Caltech Fish Counting Dataset: A Benchmark for Multiple-Object Tracking and Counting
+312 A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility
+313 BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis
+314 Dress Code: High-Resolution Multi-Category Virtual Try-On
+315 A Data-Centric Approach for Improving Ambiguous Labels with Combined Semi-Supervised Classification and Clustering
+316 ClearPose: Large-Scale Transparent Object Dataset and Benchmark
+317 When Deep Classifiers Agree: Analyzing Correlations between Learning Order and Image Statistics
+318 AnimeCeleb: Large-Scale Animation CelebHeads Dataset for Head Reenactment
+319 MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration
+320 A Dense Material Segmentation Dataset for Indoor and Outdoor Scene Parsing
+321 MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis
+322 "Delving into Universal Lesion Segmentation: Method, Dataset, and Benchmark"
+323 Large Scale Real-World Multi-person Tracking
+324 D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights
+325 The Missing Link: Finding Label Relations across Datasets
+326 Learning Omnidirectional Flow in 360° Video via Siamese Representation
+327 VizWiz-FewShot: Locating Objects in Images Taken by People with Visual Impairments
+328 TRoVE: Transforming Road Scene Datasets into Photorealistic Virtual Environments
+329 Trapped in Texture Bias? A Large Scale Comparison of Deep Instance Segmentation
+330 Deformable Feature Aggregation for Dynamic Multi-modal 3D Object Detection
+331 WeLSA: Learning to Predict 6D Pose from Weakly Labeled Data Using Shape Alignment
+332 Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph
+333 MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection
+334 Long-Tail Detection with Effective Class-Margins
+335 Semi-Supervised Monocular 3D Object Detection by Multi-View Consistency
+336 PTSEFormer: Progressive Temporal-Spatial Enhanced TransFormer towards Video Object Detection
+337 BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers
+338 Category-Level 6D Object Pose and Size Estimation Using Self-Supervised Deep Prior Deformation Networks
+339 Dense Teacher: Dense Pseudo-Labels for Semi-Supervised Object Detection
+340 Point-to-Box Network for Accurate Object Detection via Single Point Supervision
+341 Domain Adaptive Hand Keypoint and Pixel Localization in the Wild
+342 Towards Data-Efficient Detection Transformers
+343 Open-Vocabulary DETR with Conditional Matching
+344 Prediction-Guided Distillation for Dense Object Detection
+345 Multimodal Object Detection via Probabilistic Ensembling
+346 Exploiting Unlabeled Data with Vision and Language Models for Object Detection
+347 CPO: Change Robust Panorama to Point Cloud Localization
+348 INT: Towards Infinite-Frames 3D Detection with an Efficient Framework
+349 End-to-End Weakly Supervised Object Detection with Sparse Proposal Evolution
+350 Calibration-Free Multi-View Crowd Counting
+351 Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training
+352 SuperLine3D: Self-Supervised Line Segmentation and Description for LiDAR Point Cloud
+353 Exploring Plain Vision Transformer Backbones for Object Detection
+354 Adversarially-Aware Robust Object Detector
+355 HEAD: HEtero-Assists Distillation for Heterogeneous Object Detectors
+356 You Should Look at All Objects
+357 Detecting Twenty-Thousand Classes Using Image-Level Supervision
+358 DCL-Net: Deep Correspondence Learning Network for 6D Pose Estimation
+359 Monocular 3D Object Detection with Depth from Motion
+360 DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation
+361 Distilling Object Detectors with Global Knowledge
+362 Unifying Visual Perception by Dispersible Points Learning
+363 PseCo: Pseudo Labeling and Consistency Training for Semi-Supervised Object Detection
+364 Exploring Resolution and Degradation Clues As Self-Supervised Signal for Low Quality Object Detection
+365 Robust Category-Level 6D Pose Estimation with Coarse-to-Fine Rendering of Neural Features
+366 "Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection"
+367 RFLA: Gaussian Receptive Field Based Label Assignment for Tiny Object Detection
+368 Rethinking IoU-Based Optimization for Single-Stage 3D Object Detection
+369 TD-Road: Top-Down Road Network Extraction with Holistic Graph Construction
+370 Multi-faceted Distillation of Base-Novel Commonality for Few-Shot Object Detection
+371 PointCLM: A Contrastive Learning-Based Framework for Multi-Instance Point Cloud Registration
+372 Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration
+373 MTTrans: Cross-Domain Object Detection with Mean Teacher Transformer
+374 Multi-Domain Multi-Definition Landmark Localization for Small Datasets
+375 DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection
+376 Label-Guided Auxiliary Training Improves 3D Object Detector
+377 PromptDet: Towards Open-Vocabulary Detection Using Uncurated Images
+378 Densely Constrained Depth Estimator for Monocular 3D Object Detection
+379 Polarimetric Pose Prediction
+380 DFNet: Enhance Absolute Pose Regression with Direct Feature Matching
+381 Cornerformer: Purifying Instances for Corner-Based Detectors
+382 PillarNet: Real-Time and High-Performance Pillar-Based 3D Object Detection
+383 Robust Object Detection with Inaccurate Bounding Boxes
+384 Efficient Decoder-Free Object Detection with Transformers
+385 Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection
+386 ReAct: Temporal Action Detection with Relational Queries
+387 Towards Accurate Active Camera Localization
+388 Camera Pose Auto-Encoders for Improving Pose Regression
+389 Improving the Intra-Class Long-Tail in 3D Detection via Rare Example Mining
+390 Bagging Regional Classification Activation Maps for Weakly Supervised Object Localization
+391 UC-OWOD: Unknown-Classified Open World Object Detection
+392 RayTran: 3D Pose Estimation and Shape Reconstruction of Multiple Objects from Videos with Ray-Traced Transformers
+393 GTCaR: Graph Transformer for Camera Re-Localization
+394 3D Object Detection with a Self-Supervised Lidar Scene Flow Backbone
+395 Open Vocabulary Object Detection with Pseudo Bounding-Box Labels
+396 Few-Shot Object Detection by Knowledge Distillation Using Bag-of-Visual-Words Representations
+397 SALISA: Saliency-Based Input Sampling for Efficient Video Object Detection
+398 ECO-TR: Efficient Correspondences Finding via Coarse-to-Fine Refinement
+399 Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting
+400 Long-Tailed Instance Segmentation Using Gumbel Optimized Loss
+401 DetMatch: Two Teachers Are Better than One for Joint 2D and 3D Semi-Supervised Object Detection
+402 ObjectBox: From Centers to Boxes for Anchor-Free Object Detection
+403 Is Geometry Enough for Matching in Visual Localization?
+404 SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds
+405 PCR-CG: Point Cloud Registration via Deep Explicit Color and Geometry
+406 GLAMD: Global and Local Attention Mask Distillation for Object Detectors
+407 FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection
+408 Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles
+409 Class-Agnostic Object Detection with Multi-modal Transformer
+410 Enhancing Multi-modal Features Using Local Self-Attention for 3D Object Detection
+411 Object Detection As Probabilistic Set Prediction
+412 Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions
+413 Neural Correspondence Field for Object Pose Estimation
+414 On Label Granularity and Object Localization
+415 OIMNet++: Prototypical Normalization and Localization-Aware Learning for Person Search
+416 Out-of-Distribution Identification: Let Detector Tell Which I Am Not Sure
+417 Learning with Free Object Segments for Long-Tailed Instance Segmentation
+418 Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction
+419 3D Random Occlusion and Multi-layer Projection for Deep Multi-Camera Pedestrian Localization
+420 A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation
+421 Simple Open-Vocabulary Object Detection with Vision Transformers
+422 "A Simple Approach and Benchmark for 21,000-Category Object Detection"
+423 Knowledge Condensation Distillation
+424 Reducing Information Loss for Spiking Neural Networks
+425 Masked Generative Distillation
+426 Fine-Grained Data Distribution Alignment for Post-Training Quantization
+427 Learning with Recoverable Forgetting
+428 Efficient One Pass Self-Distillation with Zipf's Label Smoothing
+429 Prune Your Model before Distill It
+430 Deep Partial Updating: Towards Communication Efficient Updating for On-Device Inference
+431 Patch Similarity Aware Data-Free Quantization for Vision Transformers
+432 "L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training"
+433 Streaming Multiscale Deep Equilibrium Models
+434 Symmetry Regularization and Saturating Nonlinearity for Robust Quantization
+435 SP-Net: Slowly Progressing Dynamic Inference Networks
+436 Equivariance and Invariance Inductive Bias for Learning from Insufficient Data
+437 Mixed-Precision Neural Network Quantization via Learned Layer-Wise Importance
+438 Event Neural Networks
+439 EdgeViTs: Competing Light-Weight CNNs on Mobile Devices with Vision Transformers
+440 PalQuant: Accelerating High-Precision Networks on Low-Precision Accelerators
+441 Disentangled Differentiable Network Pruning
+442 IDa-Det: An Information Discrepancy-Aware Distillation for 1-Bit Detectors
+443 Learning to Weight Samples for Dynamic Early-Exiting Networks
+444 AdaBin: Improving Binary Neural Networks with Adaptive Binary Sets
+445 Adaptive Token Sampling for Efficient Vision Transformers
+446 Weight Fixing Networks
+447 Self-Slimmed Vision Transformer
+448 Switchable Online Knowledge Distillation
+449 $\ell_\infty$-Robustness and Beyond: Unleashing Efficient Adversarial Training
+450 Multi-Granularity Pruning for Model Acceleration on Mobile Devices
+451 Deep Ensemble Learning by Diverse Knowledge Distillation for Fine-Grained Object Classification
+452 Helpful or Harmful: Inter-Task Association in Continual Learning
+453 Towards Accurate Binary Neural Networks via Modeling Contextual Dependencies
+454 SPIN: An Empirical Evaluation on Sharing Parameters of Isotropic Networks
+455 Ensemble Knowledge Guided Sub-network Search and Fine-Tuning for Filter Pruning
+456 Network Binarization via Contrastive Learning
+457 Lipschitz Continuity Retained Binary Neural Network
+458 SPViT: Enabling Faster Vision Transformers via Latency-Aware Soft Token Pruning
+459 Soft Masking for Cost-Constrained Channel Pruning
+460 Non-uniform Step Size Quantization for Accurate Post-Training Quantization
+461 SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning
+462 Meta-GF: Training Dynamic-Depth Neural Networks Harmoniously
+463 Towards Ultra Low Latency Spiking Neural Networks for Vision and Sequential Tasks Using Temporal Pruning
+464 Towards Accurate Network Quantization with Equivalent Smooth Regularizer
+465 Explicit Model Size Control and Relaxation via Smooth Regularization for Mixed-Precision Quantization
+466 BASQ: Branch-Wise Activation-Clipping Search Quantization for Sub-4-Bit Neural Networks
+467 You Already Have It: A Generator-Free Low-Precision DNN Training Framework Using Stochastic Rounding
+468 Real Spike: Learning Real-Valued Spikes for Spiking Neural Networks
+469 FedLTN: Federated Learning for Sparse and Personalized Lottery Ticket Networks
+470 Theoretical Understanding of the Information Flow on Continual Learning Performance
+471 Exploring Lottery Ticket Hypothesis in Spiking Neural Networks
+472 On the Angular Update and Hyperparameter Tuning of a Scale-Invariant Network
+473 LANA: Latency Aware Network Acceleration
+474 RDO-Q: Extremely Fine-Grained Channel-Wise Quantization via Rate-Distortion Optimization
+475 U-Boost NAS: Utilization-Boosted Differentiable Neural Architecture Search
+476 PTQ4ViT: Post-Training Quantization for Vision Transformers with Twin Uniform Quantization
+477 Bitwidth-Adaptive Quantization-Aware Neural Network Training: A Meta-Learning Approach
+478 Understanding the Dynamics of DNNs Using Graph Modularity
+479 Latent Discriminant Deterministic Uncertainty
+480 Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals
+481 HIVE: Evaluating the Human Interpretability of Visual Explanations
+482 BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks
+483 SESS: Saliency Enhancing with Scaling and Sliding
+484 No Token Left Behind: Explainability-Aided Image Classification and Generation
+485 Interpretable Image Classification with Differentiable Prototypes Assignment
+486 "Contributions of Shape, Texture, and Color in Visual Recognition"
+487 STEEX: Steering Counterfactual Explanations with Semantics
+488 Are Vision Transformers Robust to Patch Perturbations?
+489 A Dataset Generation Framework for Evaluating Megapixel Image Classifiers \& Their Explanations
+490 Cartoon Explanations of Image Classifiers
+491 Shap-CAM: Visual Explanations for Convolutional Neural Networks Based on Shapley Value
+492 Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain
+493 Contrast-Phys: Unsupervised Video-Based Remote Physiological Measurement via Spatiotemporal Contrast
+494 Source-Free Domain Adaptation with Contrastive Domain Alignment and Self-Supervised Exploration for Face Anti-Spoofing
+495 On Mitigating Hard Clusters for Face Clustering
+496 OneFace: One Threshold for All
+497 Label2Label: A Language Modeling Framework for Multi-Attribute Learning
+498 AgeTransGAN for Facial Age Transformation with Rectified Performance Metrics
+499 Hierarchical Contrastive Inconsistency Learning for Deepfake Video Detection
+500 Rethinking Robust Representation Learning under Fine-Grained Noisy Faces
+501 Teaching Where to Look: Attention Similarity Knowledge Distillation for Low Resolution Face Recognition
+502 Teaching with Soft Label Smoothing for Mitigating Noisy Labels in Facial Expressions
+503 Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis
+504 CoupleFace: Relation Matters for Face Recognition Distillation
+505 Controllable and Guided Face Synthesis for Unconstrained Face Recognition
+506 Towards Robust Face Recognition with Comprehensive Search
+507 Towards Unbiased Label Distribution Learning for Facial Pose Estimation Using Anisotropic Spherical Gaussian
+508 AU-Aware 3D Face Reconstruction through Personalized AU-Specific Blendshape Learning
+509 BézierPalm: A Free Lunch for Palmprint Recognition
+510 Adaptive Transformers for Robust Few-Shot Cross-Domain Face Anti-Spoofing
+511 Face2Face$^\rho$: Real-Time High-Resolution One-Shot Face Reenactment
+512 Towards Racially Unbiased Skin Tone Estimation via Scene Disambiguation
+513 BoundaryFace: A Mining Framework with Noise Label Self-Correction for Face Recognition
+514 Pre-training Strategies and Datasets for Facial Representation Learning
+515 Look Both Ways: Self-Supervising Driver Gaze Estimation and Road Scene Saliency
+516 MFIM: Megapixel Facial Identity Manipulation
+517 3D Face Reconstruction with Dense Landmarks
+518 Emotion-Aware Multi-View Contrastive Learning for Facial Emotion Recognition
+519 Order Learning Using Partially Ordered Data via Chainization
+520 Unsupervised High-Fidelity Facial Texture Generation and Reconstruction
+521 Multi-Domain Learning for Updating Face Anti-Spoofing Models
+522 Towards Metrical Reconstruction of Human Faces
+523 Discover and Mitigate Unknown Biases with Debiasing Alternate Networks
+524 Unsupervised and Semi-Supervised Bias Benchmarking in Face Recognition
+525 Towards Efficient Adversarial Training on Vision Transformers
+526 MIME: Minority Inclusion for Majority Group Enhancement of AI Performance
+527 Studying Bias in GANs through the Lens of Race
+528 "Trust, but Verify: Using Self-Supervised Probing to Improve Trustworthiness"
+529 Learning to Censor by Noisy Sampling
+530 An Invisible Black-Box Backdoor Attack through Frequency Domain
+531 FairGRAPE: Fairness-Aware GRAdient Pruning mEthod for Face Attribute Classification
+532 Attaining Class-Level Forgetting in Pretrained Model Using Few Samples
+533 Anti-Neuron Watermarking: Protecting Personal Data against Unauthorized Neural Networks
+534 An Impartial Take to the CNN vs Transformer Robustness Contest
+535 Recover Fair Deep Classification Models via Altering Pre-trained Structure
+536 Decouple-and-Sample: Protecting Sensitive Information in Task Agnostic Data Release
+537 Privacy-Preserving Action Recognition via Motion Difference Quantization
+538 Latent Space Smoothing for Individually Fair Representations
+539 Parameterized Temperature Scaling for Boosting the Expressive Power in Post-Hoc Uncertainty Calibration
+540 FairStyle: Debiasing StyleGAN2 with Style Channel Manipulations
+541 Distilling the Undistillable: Learning from a Nasty Teacher
+542 SOS! Self-Supervised Learning over Sets of Handled Objects in Egocentric Action Recognition
+543 Egocentric Activity Recognition and Localization on a 3D Map
+544 Generative Adversarial Network for Future Hand Segmentation from Egocentric Video
+545 My View Is the Best View: Procedure Learning from Egocentric Videos
+546 GIMO: Gaze-Informed Human Motion Prediction in Context
+547 Image-Based CLIP-Guided Essence Transfer
+548 Detecting and Recovering Sequential DeepFake Manipulation
+549 Self-Supervised Sparse Representation for Video Anomaly Detection
+550 Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal
+551 Explaining Deepfake Detection by Analysing Image Matching
+552 FrequencyLowCut Pooling – Plug \& Play against Catastrophic Overfitting
+553 TAFIM: Targeted Adversarial Attacks against Facial Image Manipulations
+554 FingerprintNet: Synthesized Fingerprints for Generated Image Detection
+555 Detecting Generated Images by Real Images
+556 An Information Theoretic Approach for Attention-Driven Face Forgery Detection
+557 Exploring Disentangled Content Information for Face Forgery Detection
+558 RepMix: Representation Mixing for Robust Attribution of Synthesized Images
+559 Totems: Physical Objects for Verifying Visual Integrity
+560 Dual-Stream Knowledge-Preserving Hashing for Unsupervised Video Retrieval
+561 PASS: Part-Aware Self-Supervised Pre-training for Person Re-identification
+562 Adaptive Cross-Domain Learning for Generalizable Person Re-identification
+563 Multi-Query Video Retrieval
+564 Hierarchical Average Precision Training for Pertinent Image Retrieval
+565 Learning Semantic Correspondence with Sparse Annotations
+566 Dynamically Transformed Instance Normalization Network for Generalizable Person Re-identification
+567 Domain Adaptive Person Search
+568 TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval
+569 Unstructured Feature Decoupling for Vehicle Re-identification
+570 Deep Hash Distillation for Image Retrieval
+571 Mimic Embedding via Adaptive Aggregation: Learning Generalizable Person Re-identification
+572 Granularity-Aware Adaptation for Image Retrieval over Multiple Tasks
+573 Learning Audio-Video Modalities from Image Captions
+574 RVSL: Robust Vehicle Similarity Learning in Real Hazy Scenes Based on Semi-Supervised Learning
+575 Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval
+576 Modality Synergy Complement Learning with Cascaded Aggregation for Visible-Infrared Person Re-identification
+577 Cross-Modality Transformer for Visible-Infrared Person Re-identification
+578 Audio-Visual Mismatch-Aware Video Retrieval via Association and Adjustment
+579 Connecting Compression Spaces with Transformer for Approximate Nearest Neighbor Search
+580 SEMICON: A Learning-to-Hash Solution for Large-Scale Fine-Grained Image Retrieval
+581 CAViT: Contextual Alignment Vision Transformer for Video Object Re-identification
+582 Text-Based Temporal Localization of Novel Events
+583 Reliability-Aware Prediction via Uncertainty Learning for Person Image Retrieval
+584 Relighting4D: Neural Relightable Human from Videos
+585 Real-Time Intermediate Flow Estimation for Video Frame Interpolation
+586 PixelFolder: An Efficient Progressive Pixel Synthesis Network for Image Generation
+587 StyleSwap: Style-Based Generator Empowers Robust Face Swapping
+588 Paint2Pix: Interactive Painting Based Progressive Image Synthesis and Editing
+589 FurryGAN: High Quality Foreground-Aware Image Synthesis
+590 SCAM! Transferring Humans between Images with Semantic Cross Attention Modulation
+591 Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields
+592 WaveGAN: Frequency-Aware GAN for High-Fidelity Few-Shot Image Generation
+593 End-to-End Visual Editing with a Generatively Pre-trained Artist
+594 High-Fidelity GAN Inversion with Padding Space
+595 Designing One Unified Framework for High-Fidelity Face Reenactment and Swapping
+596 Sobolev Training for Implicit Neural Representations with Approximated Image Derivatives
+597 Make-a-Scene: Scene-Based Text-to-Image Generation with Human Priors
+598 3D-FM GAN: Towards 3D-Controllable Face Manipulation
+599 Multi-Curve Translator for High-Resolution Photorealistic Image Translation
+600 Deep Bayesian Video Frame Interpolation
+601 Cross Attention Based Style Distribution for Controllable Person Image Synthesis
+602 KeypointNeRF: Generalizing Image-Based Volumetric Avatars Using Relative Spatial Encoding of Keypoints
+603 ViewFormer: NeRF-Free Neural Rendering from Few Images Using Transformers
+604 L-Tracing: Fast Light Visibility Estimation on Neural Surfaces by Sphere Tracing
+605 A Perceptual Quality Metric for Video Frame Interpolation
+606 Adaptive Feature Interpolation for Low-Shot Image Generation
+607 PalGAN: Image Colorization with Palette Generative Adversarial Networks
+608 Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis
+609 Learning Prior Feature and Attention Enhanced Image Inpainting
+610 Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning
+611 3D-Aware Semantic-Guided Generative Model for Human Synthesis
+612 Temporally Consistent Semantic Video Editing
+613 Error Compensation Framework for Flow-Guided Video Inpainting
+614 Scraping Textures from Natural Images for Synthesis and Editing
+615 Single Stage Virtual Try-On via Deformable Attention Flows
+616 Improving GANs for Long-Tailed Data through Group Spectral Regularization
+617 Hierarchical Semantic Regularization of Latent Spaces in StyleGANs
+618 IntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion
+619 StyleLight: HDR Panorama Generation for Lighting Estimation and Editing
+620 Contrastive Monotonic Pixel-Level Modulation
+621 Learning Cross-Video Neural Representations for High-Quality Frame Interpolation
+622 Learning Continuous Implicit Representation for Near-Periodic Patterns
+623 End-to-End Graph-Constrained Vectorized Floorplan Generation with Panoptic Refinement
+624 Few-Shot Image Generation with Mixup-Based Distance Learning
+625 A Style-Based GAN Encoder for High Fidelity Reconstruction of Images and Videos
+626 FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs
+627 BlobGAN: Spatially Disentangled Scene Representations
+628 Unified Implicit Neural Stylization
+629 GAN with Multivariate Disentangling for Controllable Hair Editing
+630 Discovering Transferable Forensic Features for CNN-Generated Images Detection
+631 Harmonizer: Learning to Perform White-Box Image and Video Harmonization
+632 Text2LIVE: Text-Driven Layered Image and Video Editing
+633 Digging into Radiance Grid for Real-Time View Synthesis with Detail Preservation
+634 StyleGAN-Human: A Data-Centric Odyssey of Human Generation
+635 ColorFormer: Image Colorization via Color Memory Assisted Hybrid-Attention Transformer
+636 EAGAN: Efficient Two-Stage Evolutionary Architecture Search for GANs
+637 Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation
+638 DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation
+639 Multimodal Conditional Image Synthesis with Product-of-Experts GANs
+640 Auto-Regressive Image Synthesis with Integrated Quantization
+641 JoJoGAN: One Shot Face Stylization
+642 VecGAN: Image-to-Image Translation with Interpretable Latent Directions
+643 Any-Resolution Training for High-Resolution Image Synthesis
+644 CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer
+645 CANF-VC: Conditional Augmented Normalizing Flows for Video Compression
+646 Bi-Level Feature Alignment for Versatile Image Translation and Manipulation
+647 High-Fidelity Image Inpainting with GAN Inversion
+648 DeltaGAN: Towards Diverse Few-Shot Image Generation with Sample-Specific Delta
+649 Image Inpainting with Cascaded Modulation GAN and Object-Aware Training
+650 StyleFace: Towards Identity-Disentangled Face Generation on Megapixels
+651 Video Extrapolation in Space and Time
+652 Contrastive Learning for Diverse Disentangled Foreground Generation
+653 BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-Aided Adversarial Learning
+654 Augmentation of rPPG Benchmark Datasets: Learning to Remove and Embed rPPG Signals via Double Cycle Consistent Learning from Unpaired Facial Videos
+655 Geometry-Aware Single-Image Full-Body Human Relighting
+656 3D-Aware Indoor Scene Synthesis with Depth Priors
+657 Deep Portrait Delighting
+658 Vector Quantized Image-to-Image Translation
+659 The Surprisingly Straightforward Scene Text Removal Method with Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis
+660 Free-Viewpoint RGB-D Human Performance Capture and Rendering
+661 Multiview Regenerative Morphing with Dual Flows
+662 Hallucinating Pose-Compatible Scenes
+663 Motion and Appearance Adaptation for Cross-Domain Motion Transfer
+664 Layered Controllable Video Generation
+665 Custom Structure Preservation in Face Aging
+666 Spatio-Temporal Deformable Attention Network for Video Deblurring
+667 NeuMesh: Learning Disentangled Neural Mesh-Based Implicit Field for Geometry and Texture Editing
+668 NeRF for Outdoor Scene Relighting
+669 CoGS: Controllable Generation and Search from Sketch and Style
+670 HairNet: Hairstyle Transfer with Pose Changes
+671 Unbiased Multi-Modality Guidance for Image Inpainting
+672 Intelli-Paint: Towards Developing More Human-Intelligible Painting Agents
+673 Motion Transformer for Unsupervised Image Animation
+674 NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion
+675 EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer
+676 Editing Out-of-Domain GAN Inversion via Differential Activations
+677 On the Robustness of Quality Measures for GANs
+678 Sound-Guided Semantic Video Generation
+679 Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation
+680 Controllable Video Generation through Global and Local Motion Dynamics
+681 StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN
+682 Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer
+683 Combining Internal and External Constraints for Unrolling Shutter in Videos
+684 WISE: Whitebox Image Stylization by Example-Based Learning
+685 Neural Radiance Transfer Fields for Relightable Novel-View Synthesis with Global Illumination
+686 Transformers As Meta-Learners for Implicit Neural Representations
+687 Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment
+688 High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions
+689 A Codec Information Assisted Framework for Efficient Compressed Video Super-Resolution
+690 Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis
+691 AdaNeRF: Adaptive Sampling for Real-Time Rendering of Neural Radiance Fields
+692 Improving the Perceptual Quality of 2D Animation Interpolation
+693 Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask
+694 Learning Series-Parallel Lookup Tables for Efficient Image Super-Resolution
+695 GeoAug: Data Augmentation for Few-Shot NeRF with Geometry Constraints
+696 DoodleFormer: Creative Sketch Drawing with Transformers
+697 Implicit Neural Representations for Variable Length Human Motion Generation
+698 Learning Object Placement via Dual-Path Graph Completion
+699 Expanded Adaptive Scaling Normalization for End to End Image Compression
+700 Generator Knows What Discriminator Should Learn in Unconditional GANs
+701 Compositional Visual Generation with Composable Diffusion Models
+702 ManiFest: Manifold Deformation for Few-Shot Image Translation
+703 Supervised Attribute Information Removal and Reconstruction for Image Manipulation
+704 BLT: Bidirectional Layout Transformer for Controllable Layout Generation
+705 Diverse Generation from a Single Video Made Possible
+706 Rayleigh EigenDirections (REDs): Nonlinear GAN Latent Space Traversals for Multidimensional Features
+707 Bridging the Domain Gap towards Generalization in Automatic Colorization
+708 Generating Natural Images with Direct Patch Distributions Matching
+709 Context-Consistent Semantic Image Editing with Style-Preserved Modulation
+710 Eliminating Gradient Conflict in Reference-Based Line-Art Colorization
+711 Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations
+712 JPEG Artifacts Removal via Contrastive Representation Learning
+713 Unpaired Deep Image Dehazing Using Contrastive Disentanglement Learning
+714 Efficient Long-Range Attention Network for Image Super-Resolution
+715 FlowFormer: A Transformer Architecture for Optical Flow
+716 Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction
+717 Learning Shadow Correspondence for Video Shadow Detection
+718 Metric Learning Based Interactive Modulation for Real-World Super-Resolution
+719 Dynamic Dual Trainable Bounds for Ultra-Low Precision Super-Resolution Networks
+720 OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers
+721 Highly Accurate Dichotomous Image Segmentation
+722 Boosting Supervised Dehazing Methods via Bi-Level Patch Reweighting
+723 Flow-Guided Transformer for Video Inpainting
+724 Shift-tolerant Perceptual Similarity Metric
+725 Perception-Distortion Balanced ADMM Optimization for Single-Image Super-Resolution
+726 VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder
+727 Uncertainty Learning in Kernel Estimation for Multi-stage Blind Image Super-Resolution
+728 Learning Spatio-Temporal Downsampling for Effective Video Upscaling
+729 Learning Local Implicit Fourier Representation for Image Warping
+730 SepLUT: Separable Image-Adaptive Lookup Tables for Real-Time Image Enhancement
+731 Blind Image Decomposition
+732 MuLUT: Cooperating Multiple Look-Up Tables for Efficient Image Super-Resolution
+733 Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution
+734 Spatial-Frequency Domain Information Integration for Pan-Sharpening
+735 Adaptive Patch Exiting for Scalable Single Image Super-Resolution
+736 Efficient Meta-Tuning for Content-Aware Neural Video Delivery
+737 Reference-Based Image Super-Resolution with Deformable Attention Transformer
+738 Local Color Distributions Prior for Image Enhancement
+739 L-CoDer: Language-Based Colorization with Color-Object Decoupling Transformer
+740 From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution
+741 Towards Interpretable Video Super-Resolution via Alternating Optimization
+742 Event-Based Fusion for Motion Deblurring with Cross-Modal Attention
+743 Fast and High Quality Image Denoising via Malleable Convolution
+744 TAPE: Task-Agnostic Prior Embedding for Image Restoration
+745 Uncertainty Inspired Underwater Image Enhancement
+746 Hourglass Attention Network for Image Inpainting
+747 Unfolded Deep Kernel Estimation for Blind Image Super-Resolution
+748 Event-Guided Deblurring of Unknown Exposure Time Videos
+749 ReCoNet: Recurrent Correction Network for Fast and Efficient Multi-Modality Image Fusion
+750 Content Adaptive Latents and Decoder for Neural Image Compression
+751 Efficient and Degradation-Adaptive Network for Real-World Image Super-Resolution
+752 Unidirectional Video Denoising by Mimicking Backward Recurrent Modules with Look-Ahead Forward Ones
+753 Self-Supervised Learning for Real-World Super-Resolution from Dual Zoomed Observations
+754 Secrets of Event-Based Optical Flow
+755 Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoiréing
+756 ERDN: Equivalent Receptive Field Deformable Network for Video Deblurring
+757 Rethinking Generic Camera Models for Deep Single Image Camera Calibration to Recover Rotation and Fisheye Distortion
+758 ART-SS: An Adaptive Rejection Technique for Semi-Supervised Restoration for Adverse Weather-Affected Images
+759 Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion
+760 Learning Degradation Representations for Image Deblurring
+761 Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution
+762 Spectrum-Aware and Transferable Architecture Search for Hyperspectral Image Restoration
+763 Neural Color Operators for Sequential Image Retouching
+764 Optimizing Image Compression via Joint Learning with Denoising
+765 "Restore Globally, Refine Locally: A Mask-Guided Scheme to Accelerate Super-Resolution Networks"
+766 Compiler-Aware Neural Architecture Search for On-Mobile Real-Time Super-Resolution
+767 Modeling Mask Uncertainty in Hyperspectral Image Reconstruction
+768 Perceiving and Modeling Density for Image Dehazing
+769 Stripformer: Strip Transformer for Fast Image Deblurring
+770 Deep Fourier-Based Exposure Correction Network with Spatial-Frequency Interaction
+771 Frequency and Spatial Dual Guidance for Image Dehazing
+772 Towards Real-World HDRTV Reconstruction: A Data Synthesis-Based Approach
+773 Learning Discriminative Shrinkage Deep Networks for Image Deconvolution
+774 KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution
+775 ARM: Any-Time Super-Resolution Method
+776 Attention-Aware Learning for Hyperparameter Prediction in Image Processing Pipelines
+777 RealFlow: EM-Based Realistic Optical Flow Dataset Generation from Videos
+778 Memory-Augmented Model-Driven Network for Pansharpening
+779 All You Need Is RAW: Defending against Adversarial Attacks with Camera Image Pipelines
+780 Ghost-Free High Dynamic Range Imaging with Context-Aware Transformer
+781 Style-Guided Shadow Removal
+782 D2C-SR: A Divergence to Convergence Approach for Real-World Image Super-Resolution
+783 GRIT-VLP: Grouped Mini-Batch Sampling for Efficient Vision and Language Pre-training
+784 Efficient Video Deblurring Guided by Motion Magnitude
+785 Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and a New Physics-Inspired Transformer Model
+786 Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression
+787 Image Super-Resolution with Deep Dictionary
+788 TempFormer: Temporally Consistent Transformer for Video Denoising
+789 RAWtoBit: A Fully End-to-End Camera ISP Network
+790 DRCNet: Dynamic Image Restoration Contrastive Network
+791 Zero-Shot Learning for Reflection Removal of Single 360-Degree Image
+792 Transformer with Implicit Edges for Particle-Based Physics Simulation
+793 Rethinking Video Rain Streak Removal: A New Synthesis Model and a Deraining Network with Video Rain Prior
+794 Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images
+795 Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance
+796 AlphaVC: High-Performance and Efficient Learned Video Compression
+797 Content-Oriented Learned Image Compression
+798 RRSR:Reciprocal Reference-Based Image Super-Resolution with Progressive Feature Alignment and Selection
+799 Contrastive Prototypical Network with Wasserstein Confidence Penalty
+800 Learn-to-Decompose: Cascaded Decomposition Network for Cross-Domain Few-Shot Facial Expression Recognition
+801 Self-Support Few-Shot Semantic Segmentation
+802 Few-Shot Object Detection with Model Calibration
+803 Self-Supervision Can Be a Good Few-Shot Learner
+804 tSF: Transformer-Based Semantic Filter for Few-Shot Learning
+805 Adversarial Feature Augmentation for Cross-Domain Few-Shot Classification
+806 Constructing Balance from Imbalance for Long-Tailed Image Recognition
+807 "On Multi-Domain Long-Tailed Recognition, Imbalanced Domain Generalization and Beyond"
+808 Few-Shot Video Object Detection
+809 Worst Case Matters for Few-Shot Recognition
+810 Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification
+811 Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation
+812 Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentation
+813 Rethinking Clustering-Based Pseudo-Labeling for Unsupervised Meta-Learning
+814 CLASTER: Clustering with Reinforcement Learning for Zero-Shot Action Recognition
+815 Few-Shot Class-Incremental Learning for 3D Point Cloud Objects
+816 Meta-Learning with Less Forgetting on Large-Scale Non-stationary Task Distributions
+817 DNA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment
+818 Learning Instance and Task-Aware Dynamic Kernels for Few-Shot Learning
+819 Open-World Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding
+820 Few-Shot Classification with Contrastive Learning
+821 Time-rEversed diffusioN tEnsor Transformer: A New TENET of Few-Shot Object Detection
+822 Self-Promoted Supervision for Few-Shot Transformer
+823 Few-Shot Object Counting and Detection
+824 Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark
+825 Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations
+826 Mutually Reinforcing Structure with Proposal Contrastive Consistency for Few-Shot Object Detection
+827 Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-Shot Medical Image Segmentation
+828 Improving Few-Shot Learning through Multi-task Representation Learning Theory
+829 Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation
+830 Inductive and Transductive Few-Shot Video Classification via Appearance and Temporal Alignments
+831 Temporal and Cross-Modal Attention for Audio-Visual Zero-Shot Learning
+832 HM: Hybrid Masking for Few-Shot Segmentation
+833 TransVLAD: Focusing on Locally Aggregated Descriptors for Few-Shot Learning
+834 Kernel Relative-Prototype Spectral Filtering for Few-Shot Learning
+835 "“This Is My Unicorn, Fluffy”: Personalizing Frozen Vision-Language Representations"
+836 CLOSE: Curriculum Learning on the Sharing Extent towards Better One-Shot NAS
+837 Streamable Neural Fields
+838 Gradient-Based Uncertainty for Monocular Depth Estimation
+839 Online Continual Learning with Contrastive Vision Transformer
+840 CPrune: Compiler-Informed Model Pruning for Efficient Target-Aware DNN Execution
+841 EAutoDet: Efficient Architecture Search for Object Detection
+842 A Max-Flow Based Approach for Neural Architecture Search
+843 OccamNets: Mitigating Dataset Bias by Favoring Simpler Hypotheses
+844 ERA: Enhanced Rational Activations
+845 Convolutional Embedding Makes Hierarchical Vision Transformer Stronger
+846 Active Label Correction Using Robust Parameter Update and Entropy Propagation
+847 Unpaired Image Translation via Vector Symbolic Architectures
+848 "UniNet: Unified Architecture Search with Convolution, Transformer, and MLP"
+849 AMixer: Adaptive Weight Mixing for Self-Attention Free Vision Transformers
+850 TinyViT: Fast Pretraining Distillation for Small Vision Transformers
+851 Equivariant Hypergraph Neural Networks
+852 ScaleNet: Searching for the Model to Scale
+853 Complementing Brightness Constancy with Deep Networks for Optical Flow Prediction
+854 ViTAS: Vision Transformer Architecture Search
+855 LidarNAS: Unifying and Searching Neural Architectures for 3D Point Clouds
+856 Uncertainty-DTW for Time Series and Sequences
+857 Black-Box Few-Shot Knowledge Distillation
+858 Revisiting Batch Norm Initialization
+859 SSBNet: Improving Visual Recognition Efficiency by Adaptive Sampling
+860 Filter Pruning via Feature Discrimination in Deep Neural Networks
+861 LA3: Efficient Label-Aware AutoAugment
+862 Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps
+863 BA-Net: Bridge Attention for Deep Convolutional Neural Networks
+864 SAU: Smooth Activation Function Using Convolution with Approximate Identities
+865 Multi-Exit Semantic Segmentation Networks
+866 Almost-Orthogonal Layers for Efficient General-Purpose Lipschitz Networks
+867 \texttt{\textbf{PointScatter}}: Point Set Representation for Tubular Structure Extraction
+868 Check and Link: Pairwise Lesion Correspondence Guides Mammogram Mass Detection
+869 Graph-Constrained Contrastive Regularization for Semi-Weakly Volumetric Segmentation
+870 Generalizable Medical Image Segmentation via Random Amplitude Mixup and Domain-Specific Image Restoration
+871 Auto-FedRL: Federated Hyperparameter Optimization for Multi-Institutional Medical Image Segmentation
+872 Personalizing Federated Medical Image Segmentation via Local Calibration
+873 One-Shot Medical Landmark Localization by Edge-Guided Transform and Noisy Landmark Refinement
+874 Ultra-High-Resolution Unpaired Stain Transformation via Kernelized Instance Normalization
+875 Med-DANet: Dynamic Architecture Network for Efficient Medical Volumetric Segmentation
+876 ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images
+877 CryoAI: Amortized Inference of Poses for Ab Initio Reconstruction of 3D Molecular Volumes from Real Cryo-EM Images
+878 UniMiSS: Universal Medical Self-Supervised Learning via Breaking Dimensionality Barrier
+879 DLME: Deep Local-Flatness Manifold Embedding
+880 Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching
+881 Graph Neural Network for Cell Tracking in Microscopy Videos
+882 CXR Segmentation by AdaIN-Based Domain Adaptation and Knowledge Distillation
+883 Accurate Detection of Proteins in Cryo-Electron Tomograms from Sparse Labels
+884 K-SALSA: K-Anonymous Synthetic Averaging of Retinal Images via Local Style Alignment
+885 RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-Guided Disease Classification
+886 Differentiable Zooming for Multiple Instance Learning on Whole-Slide Images
+887 Learning Uncoupled-Modulation CVAE for 3D Action-Conditioned Human Motion Synthesis
+888 Towards Grand Unification of Object Tracking
+889 ByteTrack: Multi-Object Tracking by Associating Every Detection Box
+890 Robust Multi-Object Tracking by Marginal Inference
+891 PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?
+892 Particle Video Revisited: Tracking through Occlusions Using Point Trajectories
+893 Tracking Objects As Pixel-Wise Distributions
+894 CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds
+895 Towards Generic 3D Tracking in RGBD Videos: Benchmark and Baseline
+896 Hierarchical Latent Structure for Multi-modal Vehicle Trajectory Forecasting
+897 AiATrack: Attention in Attention for Transformer Visual Tracking
+898 Disentangling Architecture and Training for Optical Flow
+899 A Perturbation-Constrained Adversarial Attack for Evaluating the Robustness of Optical Flow
+900 Robust Landmark-Based Stent Tracking in X-Ray Fluoroscopy
+901 Social ODE: Multi-agent Trajectory Forecasting with Neural Ordinary Differential Equations
+902 Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction
+903 Diverse Human Motion Prediction Guided by Multi-level Spatial-Temporal Anchors
+904 Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction
+905 Sequential Multi-View Fusion Network for Fast LiDAR Point Motion Estimation
+906 E-Graph: Minimal Solution for Rigid Rotation with Extensibility Graphs
+907 Point Cloud Compression with Range Image-Based Entropy Model for Autonomous Driving
+908 Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework
+909 MotionCLIP: Exposing Human Motion Generation to CLIP Space
+910 Backbone Is All Your Need: A Simplified Architecture for Visual Object Tracking
+911 Aware of the History: Trajectory Forecasting with the Local Behavior Data
+912 Optical Flow Training under Limited Label Budget via Active Learning
+913 Hierarchical Feature Embedding for Visual Tracking
+914 Tackling Background Distraction in Video Object Segmentation
+915 Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation
+916 TEMOS: Generating Diverse Human Motions from Textual Descriptions
+917 Tracking Every Thing in the Wild
+918 HULC: 3D HUman Motion Capture with Pose Manifold SampLing and Dense Contact Guidance
+919 Towards Sequence-Level Training for Visual Tracking
+920 Learned Monocular Depth Priors in Visual-Inertial Initialization
+921 Robust Visual Tracking by Segmentation
+922 MeshLoc: Mesh-Based Visual Localization
+923 S2F2: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction
+924 Large-Displacement 3D Object Tracking with Hybrid Non-local Optimization
+925 "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker"
+926 PREF: Predictability Regularized Neural Motion Fields
+927 View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums
+928 "HVC-Net: Unifying Homography, Visibility, and Confidence Learning for Planar Object Tracking"
+929 RamGAN: Region Attentive Morphing GAN for Region-Level Makeup Transfer
+930 SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image
+931 Entropy-Driven Sampling and Training Scheme for Conditional Diffusion Generation
+932 Accelerating Score-Based Generative Models with Preconditioned Diffusion Sampling
+933 Learning to Generate Realistic LiDAR Point Clouds
+934 RFNet-4D: Joint Object Reconstruction and Flow Estimation from 4D Point Clouds
+935 Diverse Image Inpainting with Normalizing Flow
+936 Improved Masked Image Generation with Token-Critic
+937 TREND: Truncated Generalized Normal Density Estimation of Inception Embeddings for GAN Evaluation
+938 Exploring Gradient-Based Multi-directional Controls in GANs
+939 Spatially Invariant Unsupervised 3D Object-Centric Learning and Scene Decomposition
+940 Neural Scene Decoration from a Single Photograph
+941 Outpainting by Queries
+942 Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes
+943 ChunkyGAN: Real Image Inversion via Segments
+944 GAN Cocktail: Mixing GANs without Dataset Access
+945 Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering
+946 Controllable Shadow Generation Using Pixel Height Maps
+947 Learning Where to Look – Generative NAS Is Surprisingly Efficient
+948 Subspace Diffusion Generative Models
+949 DuelGAN: A Duel between Two Discriminators Stabilizes the GAN Training
+950 MINER: Multiscale Implicit Neural Representation
+951 An Embedded Feature Whitening Approach to Deep Neural Network Optimization
+952 Q-FW: A Hybrid Classical-Quantum Frank-Wolfe for Quadratic Binary Optimization
+953 Self-Supervised Learning of Visual Graph Matching
+954 Scalable Learning to Optimize: A Learned Optimizer Can Train Big Models
+955 QISTA-ImageNet: A Deep Compressive Image Sensing Framework Solving $\ell_q$-Norm Optimization Problem
+956 R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning
+957 Domain Generalization by Mutual-Information Regularization with Pre-trained Models
+958 Predicting Is Not Understanding: Recognizing and Addressing Underspecification in Machine Learning
+959 Neural-Sim: Learning to Generate Training Data with NeRF
+960 Bayesian Optimization with Clustering and Rollback for CNN Auto Pruning
+961 Learned Variational Video Color Propagation
+962 Continual Variational Autoencoder Learning via Online Cooperative Memorization
+963 Learning to Learn with Smooth Regularization
+964 Incremental Task Learning with Incremental Rank Updates
+965 Batch-Efficient EigenDecomposition for Small and Medium Matrices
+966 Ensemble Learning Priors Driven Deep Unfolding for Scalable Video Snapshot Compressive Imaging
+967 Approximate Discrete Optimal Transport Plan with Auxiliary Measure Method
+968 A Comparative Study of Graph Matching Algorithms in Computer Vision
+969 Improving Generalization in Federated Learning by Seeking Flat Minima
+970 Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not
+971 Transfer without Forgetting
+972 AdaBest: Minimizing Client Drift in Federated Learning via Adaptive Bias Estimation
+973 Tackling Long-Tailed Category Distribution under Domain Shifts
+974 Doubly-Fused ViT: Fuse Information from Vision Transformer Doubly with Local Representation
+975 Improving Vision Transformers by Revisiting High-Frequency Components
+976 Recurrent Bilinear Optimization for Binary Neural Networks
+977 Neural Architecture Search for Spiking Neural Networks
+978 Where to Focus: Investigating Hierarchical Attention Relationship for Fine-Grained Visual Classification
+979 DaViT: Dual Attention Vision Transformers
+980 Optimal Transport for Label-Efficient Visible-Infrared Person Re-identification
+981 Locality Guidance for Improving Vision Transformers on Tiny Datasets
+982 Neighborhood Collective Estimation for Noisy Label Identification and Correction
+983 Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay
+984 Anti-Retroactive Interference for Lifelong Learning
+985 Towards Calibrated Hyper-Sphere Representation via Distribution Overlap Coefficient for Long-Tailed Learning
+986 Dynamic Metric Learning with Cross-Level Concept Distillation
+987 MENet: A Memory-Based Network with Dual-Branch for Efficient Event Stream Processing
+988 Out-of-Distribution Detection with Boundary Aware Learning
+989 Learning Hierarchy Aware Features for Reducing Mistake Severity
+990 Learning to Detect Every Thing in an Open World
+991 KVT: $k$-NN Attention for Boosting Vision Transformers
+992 Registration Based Few-Shot Anomaly Detection
+993 Improving Robustness by Enhancing Weak Subnets
+994 Learning Invariant Visual Representations for Compositional Zero-Shot Learning
+995 Improving Covariance Conditioning of the SVD Meta-Layer by Orthogonality
+996 Out-of-Distribution Detection with Semantic Mismatch under Masking
+997 Data-Free Neural Architecture Search via Recursive Label Calibration
+998 Learning from Multiple Annotator Noisy Labels via Sample-Wise Label Fusion
+999 Acknowledging the Unknown for Multi-Label Learning with Single Positive Labels
+1000 AutoMix: Unveiling the Power of Mixup for Stronger Classifiers
+1001 MaxViT: Multi-axis Vision Transformer
+1002 ScalableViT: Rethinking the Context-Oriented Generalization of Vision Transformer
+1003 Three Things Everyone Should Know about Vision Transformers
+1004 DeiT III: Revenge of the ViT
+1005 MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition
+1006 Self-Feature Distillation with Uncertainty Modeling for Degraded Image Recognition
+1007 Novel Class Discovery without Forgetting
+1008 SAFA: Sample-Adaptive Feature Augmentation for Long-Tailed Image Classification
+1009 Negative Samples Are at Large: Leveraging Hard-Distance Elastic Loss for Re-identification
+1010 Discrete-Constrained Regression for Local Counting Models
+1011 Breadcrumbs: Adversarial Class-Balanced Sampling for Long-Tailed Recognition
+1012 Chairs Can Be Stood On: Overcoming Object Bias in Human-Object Interaction Detection
+1013 A Fast Knowledge Distillation Framework for Visual Recognition
+1014 DICE: Leveraging Sparsification for Out-of-Distribution Detection
+1015 Invariant Feature Learning for Generalized Long-Tailed Classification
+1016 Sliced Recursive Transformer
+1017 Cross-Domain Ensemble Distillation for Domain Generalization
+1018 Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels
+1019 Hyperspherical Learning in Multi-Label Classification
+1020 When Active Learning Meets Implicit Semantic Data Augmentation
+1021 VL-LTR: Learning Class-Wise Visual-Linguistic Representation for Long-Tailed Visual Recognition
+1022 Class Is Invariant to Context and Vice Versa: On Learning Invariance for Out-of-Distribution Generalization
+1023 Hierarchical Semi-Supervised Contrastive Learning for Contamination-Resistant Anomaly Detection
+1024 Tracking by Associating Clips
+1025 RealPatch: A Statistical Matching Framework for Model Patching with Real Samples
+1026 Background-Insensitive Scene Text Recognition with Text Semantic Segmentation
+1027 Semantic Novelty Detection via Relational Reasoning
+1028 Improving Closed and Open-Vocabulary Attribute Prediction Using Transformers
+1029 Training Vision Transformers with Only 2040 Images
+1030 Bridging Images and Videos: A Simple Learning Framework for Large Vocabulary Video Object Detection
+1031 TDAM: Top-Down Attention Module for Contextually Guided Feature Selection in CNNs
+1032 Automatic Check-Out via Prototype-Based Classifier Learning from Single-Product Exemplars
+1033 Overcoming Shortcut Learning in a Target Domain by Generalizing Basic Visual Factors from a Source Domain
+1034 Photo-Realistic Neural Domain Randomization
+1035 Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning
+1036 Tailoring Self-Supervision for Supervised Learning
+1037 Difficulty-Aware Simulator for Open Set Recognition
+1038 Few-Shot Class-Incremental Learning from an Open-Set Perspective
+1039 FOSTER: Feature Boosting and Compression for Class-Incremental Learning
+1040 Visual Knowledge Tracing
+1041 S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning
+1042 Improving Fine-Grained Visual Recognition in Low Data Regimes via Self-Boosting Attention Mechanism
+1043 VSA: Learning Varied-Size Window Attention in Vision Transformers
+1044 Unbiased Manifold Augmentation for Coarse Class Subdivision
+1045 DenseHybrid: Hybrid Anomaly Detection for Dense Open-Set Recognition
+1046 Rethinking Confidence Calibration for Failure Prediction
+1047 Uncertainty-Guided Source-Free Domain Adaptation
+1048 Should All Proposals Be Treated Equally in Object Detection?
+1049 VIP: Unified Certified Detection and Recovery for Patch Attack with Vision Transformers
+1050 incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection
+1051 IGFormer: Interaction Graph Transformer for Skeleton-Based Human Interaction Recognition
+1052 PRIME: A Few Primitives Can Boost Robustness to Common Corruptions
+1053 Rotation Regularization without Rotation
+1054 Towards Accurate Open-Set Recognition via Background-Class Regularization
+1055 In Defense of Image Pre-training for Spatiotemporal Recognition
+1056 Augmenting Deep Classifiers with Polynomial Neural Networks
+1057 Learning with Noisy Labels by Efficient Transition Matrix Estimation to Combat Label Miscorrection
+1058 Online Task-Free Continual Learning with Dynamic Sparse Distributed Memory
+1059 Contrastive Deep Supervision
+1060 Discriminability-Transferability Trade-Off: An Information-Theoretic Perspective
+1061 LocVTP: Video-Text Pre-training for Temporal Localization
+1062 Few-Shot End-to-End Object Detection via Constantly Concentrated Encoding across Heads
+1063 Implicit Neural Representations for Image Compression
+1064 LiP-Flow: Learning Inference-Time Priors for Codec Avatars via Normalizing Flows in Latent Space
+1065 Learning to Drive by Watching YouTube Videos: Action-Conditioned Contrastive Policy Pretraining
+1066 Learning Ego 3D Representation As Ray Tracing
+1067 Static and Dynamic Concepts for Self-Supervised Video Representation Learning
+1068 SphereFed: Hyperspherical Federated Learning
+1069 Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning
+1070 Posterior Refinement on Metric Matrix Improves Generalization Bound in Metric Learning
+1071 Balancing Stability and Plasticity through Advanced Null Space in Continual Learning
+1072 DisCo: Remedying Self-Supervised Learning on Lightweight Models with Distilled Contrastive Learning
+1073 CoSCL: Cooperation of Small Continual Learners Is Stronger than a Big One
+1074 Manifold Adversarial Learning for Cross-Domain 3D Shape Representation
+1075 Fast-MoCo: Boost Momentum-Based Contrastive Learning with Combinatorial Patches
+1076 LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling
+1077 On the Versatile Uses of Partial Distance Correlation in Deep Learning
+1078 Self-Regulated Feature Learning via Teacher-Free Feature Distillation
+1079 Balancing between Forgetting and Acquisition in Incremental Subpopulation Learning
+1080 Counterfactual Intervention Feature Transfer for Visible-Infrared Person Re-identification
+1081 DAS: Densely-Anchored Sampling for Deep Metric Learning
+1082 Learn from All: Erasing Attention Consistency for Noisy Label Facial Expression Recognition
+1083 A Non-Isotropic Probabilistic Take On Proxy-Based Deep Metric Learning
+1084 TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers
+1085 UFO: Unified Feature Optimization
+1086 Sound Localization by Self-Supervised Time Delay Estimation
+1087 X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation
+1088 SLIP: Self-Supervision Meets Language-Image Pre-training
+1089 Discovering Deformable Keypoint Pyramids
+1090 Neural Video Compression Using GANs for Detail Synthesis and Propagation
+1091 A Contrastive Objective for Learning Disentangled Representations
+1092 PT4AL: Using Self-Supervised Pretext Tasks for Active Learning
+1093 ParC-Net: Position Aware Circular Convolution with Merits from ConvNets and Transformer
+1094 DualPrompt: Complementary Prompting for Rehearsal-Free Continual Learning
+1095 Unifying Visual Contrastive Learning for Object Recognition from a Graph Perspective
+1096 Decoupled Contrastive Learning
+1097 Joint Learning of Localized Representations from Medical Images and Reports
+1098 The Challenges of Continuous Self-Supervised Learning
+1099 Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval
+1100 Identifying Hard Noise in Long-Tailed Sample Distribution
+1101 Relative Contrastive Loss for Unsupervised Representation Learning
+1102 Fine-Grained Fashion Representation Learning by Online Deep Clustering
+1103 NashAE: Disentangling Representations through Adversarial Covariance Minimization
+1104 A Gyrovector Space Approach for Symmetric Positive Semi-Definite Matrix Learning
+1105 Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training
+1106 Contrasting Quadratic Assignments for Set-Based Representation Learning
+1107 Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer
+1108 Object Discovery and Representation Networks
+1109 Trading Positional Complexity vs Deepness in Coordinate Networks
+1110 MVDG: A Unified Multi-View Framework for Domain Generalization
+1111 Panoptic Scene Graph Generation
+1112 Object-Compositional Neural Implicit Surfaces
+1113 RigNet: Repetitive Image Guided Network for Depth Completion
+1114 FADE: Fusing the Assets of Decoder and Encoder for Task-Agnostic Upsampling
+1115 LiDAL: Inter-Frame Uncertainty Based Active Learning for 3D LiDAR Semantic Segmentation
+1116 Hierarchical Memory Learning for Fine-Grained Scene Graph Generation
+1117 DODA: Data-Oriented Sim-to-Real Domain Adaptation for 3D Semantic Segmentation
+1118 MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning
+1119 MonoPLFlowNet: Permutohedral Lattice FlowNet for Real-Scale 3D Scene Flow Estimation with Monocular Images
+1120 TO-Scene: A Large-Scale Dataset for Understanding 3D Tabletop Scenes
+1121 Is It Necessary to Transfer Temporal Knowledge for Domain Adaptive Video Semantic Segmentation?
+1122 Meta Spatio-Temporal Debiasing for Video Scene Graph Generation
+1123 Improving the Reliability for Confidence Estimation
+1124 Fine-Grained Scene Graph Generation with Data Transfer
+1125 Pose2Room: Understanding 3D Scenes from Human Activities
+1126 Towards Hard-Positive Query Mining for DETR-Based Human-Object Interaction Detection
+1127 Discovering Human-Object Interaction Concepts via Self-Compositional Learning
+1128 Primitive-Based Shape Abstraction via Nonparametric Bayesian Inference
+1129 Stereo Depth Estimation with Echoes
+1130 Inverted Pyramid Multi-task Transformer for Dense Scene Understanding
+1131 PETR: Position Embedding Transformation for Multi-View 3D Object Detection
+1132 S2Net: Stochastic Sequential Pointcloud Forecasting
+1133 RA-Depth: Resolution Adaptive Self-Supervised Monocular Depth Estimation
+1134 PolyphonicFormer: Unified Query Learning for Depth-Aware Video Panoptic Segmentation
+1135 SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds
+1136 PointMixer: MLP-Mixer for Point Cloud Understanding
+1137 Initialization and Alignment for Adversarial Texture Optimization
+1138 MOTR: End-to-End Multiple-Object Tracking with TRansformer
+1139 GALA: Toward Geometry-and-Lighting-Aware Object Search for Compositing
+1140 LaLaLoc++: Global Floor Plan Comprehension for Layout Localisation in Unvisited Environments
+1141 3D-PL: Domain Adaptive Depth Estimation with 3D-Aware Pseudo-Labeling
+1142 Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation
+1143 Salient Object Detection for Point Clouds
+1144 Learning Semantic Segmentation from Multiple Datasets with Label Shifts
+1145 Weakly Supervised 3D Scene Segmentation with Region-Level Boundary Awareness and Instance Discrimination
+1146 Towards Open-Vocabulary Scene Graph Generation with Prompt-Based Finetuning
+1147 Variance-Aware Weight Initialization for Point Convolutional Neural Networks
+1148 Break and Make: Interactive Structural Understanding Using LEGO Bricks
+1149 Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation
+1150 3DG-STFM: 3D Geometric Guided Student-Teacher Feature Matching
+1151 Video Restoration Framework and Its Meta-Adaptations to Data-Poor Conditions
+1152 MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud
+1153 Scene Text Recognition with Permuted Autoregressive Sequence Models
+1154 When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition
+1155 Detecting Tampered Scene Text in the Wild
+1156 Optimal Boxes: Boosting End-to-End Scene Text Recognition by Adjusting Annotated Bounding Boxes via Reinforcement Learning
+1157 GLASS: Global to Local Attention for Scene-Text Spotting
+1158 COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts
+1159 Language Matters: A Weakly Supervised Vision-Language Pre-training Approach for Scene Text Detection and Spotting
+1160 Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition
+1161 Levenshtein OCR
+1162 Multi-Granularity Prediction for Scene Text Recognition
+1163 Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting
+1164 Contextual Text Block Detection towards Scene Text Understanding
+1165 CoMER: Modeling Coverage for Transformer-Based Handwritten Mathematical Expression Recognition
+1166 Don't Forget Me: Accurate Background Recovery for Text Removal via Modeling Local-Global Context
+1167 TextAdaIN: Paying Attention to Shortcut Learning in Text Recognizers
+1168 Multi-modal Text Recognition Networks: Interactive Enhancements between Visual and Semantic Features
+1169 SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition
+1170 Pure Transformer with Integrated Experts for Scene Text Recognition
+1171 OCR-Free Document Understanding Transformer
+1172 CAR: Class-Aware Regularizations for Semantic Segmentation
+1173 Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation
+1174 SeqFormer: Sequential Transformer for Video Instance Segmentation
+1175 Saliency Hierarchy Modeling via Generative Kernels for Salient Object Detection
+1176 In Defense of Online Models for Video Instance Segmentation
+1177 Active Pointly-Supervised Instance Segmentation
+1178 A Transformer-Based Decoder for Semantic Segmentation with Multi-level Context Mining
+1179 XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model
+1180 Self-Distillation for Robust LiDAR Semantic Segmentation in Autonomous Driving
+1181 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds
+1182 Extract Free Dense Labels from CLIP
+1183 3D Compositional Zero-Shot Learning with DeCompositional Consensus
+1184 Video Mask Transfiner for High-Quality Video Instance Segmentation
+1185 Box-Supervised Instance Segmentation with Level Set Evolution
+1186 Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding
+1187 Adaptive Agent Transformer for Few-Shot Segmentation
+1188 Waymo Open Dataset: Panoramic Video Panoptic Segmentation
+1189 TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation
+1190 AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-Shot Interactions
+1191 Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation
+1192 "Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications"
+1193 Perceptual Artifacts Localization for Inpainting
+1194 2D Amodal Instance Segmentation Guided by 3D Shape Prior
+1195 Data Efficient 3D Learner via Knowledge Transferred from 2D Model
+1196 Adaptive Spatial-BCE Loss for Weakly Supervised Semantic Segmentation
+1197 Dense Gaussian Processes for Few-Shot Segmentation
+1198 3D Instances as 1D Kernels
+1199 TransMatting: Enhancing Transparent Objects Matting with Transformers
+1200 MVSalNet:Multi-View Augmentation for RGB-D Salient Object Detection
+1201 $k$-Means Mask Transformer
+1202 SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness
+1203 Adversarial Erasing Framework via Triplet with Gated Pyramid Pooling Layer for Weakly Supervised Semantic Segmentation
+1204 Continual Semantic Segmentation via Structure Preserving and Projected Feature Alignment
+1205 Interclass Prototype Relation for Few-Shot Segmentation
+1206 Slim Scissors: Segmenting Thin Object from Synthetic Background
+1207 Abstracting Sketches through Simple Primitives
+1208 Multi-Scale and Cross-Scale Contrastive Learning for Semantic Segmentation
+1209 One-Trimap Video Matting
+1210 D2ADA: Dynamic Density-Aware Active Domain Adaptation for Semantic Segmentation
+1211 Learning Quality-Aware Dynamic Memory for Video Object Segmentation
+1212 Learning Implicit Feature Alignment Function for Semantic Segmentation
+1213 Quantum Motion Segmentation
+1214 Instance As Identity: A Generic Online Paradigm for Video Instance Segmentation
+1215 Laplacian Mesh Transformer: Dual Attention and Topology Aware Network for 3D Mesh Classification and Segmentation
+1216 Geodesic-Former: A Geodesic-Guided Few-Shot 3D Point Cloud Instance Segmenter
+1217 Union-Set Multi-source Model Adaptation for Semantic Segmentation
+1218 Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions
+1219 BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation
+1220 SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection
+1221 Global Spectral Filter Memory Network for Video Object Segmentation
+1222 Video Instance Segmentation via Multi-Scale Spatio-Temporal Split Attention Transformer
+1223 RankSeg: Adaptive Pixel Classification with Image Category Ranking for Segmentation
+1224 Learning Topological Interactions for Multi-Class Medical Image Segmentation
+1225 Unsupervised Segmentation in Real-World Images via Spelke Object Inference
+1226 A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model
+1227 Fast Two-View Motion Segmentation Using Christoffel Polynomials
+1228 UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation
+1229 Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation
+1230 Learning Regional Purity for Instance Segmentation on 3D Point Clouds
+1231 Cross-Domain Few-Shot Semantic Segmentation
+1232 Generative Subgraph Contrast for Self-Supervised Graph Representation Learning
+1233 SdAE: Self-Distillated Masked Autoencoder
+1234 Demystifying Unsupervised Semantic Correspondence Estimation
+1235 Open-Set Semi-Supervised Object Detection
+1236 Vibration-Based Uncertainty Estimation for Learning from Limited Supervision
+1237 Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation
+1238 Weakly Supervised Object Localization through Inter-class Feature Similarity and Intra-Class Appearance Consistency
+1239 Active Learning Strategies for Weakly-Supervised Object Detection
+1240 Mc-BEiT: Multi-Choice Discretization for Image BERT Pre-training
+1241 Bootstrapped Masked Autoencoders for Vision BERT Pretraining
+1242 Unsupervised Visual Representation Learning by Synchronous Momentum Grouping
+1243 Improving Few-Shot Part Segmentation Using Coarse Supervision
+1244 What to Hide from Your Students: Attention-Guided Masked Image Modeling
+1245 Pointly-Supervised Panoptic Segmentation
+1246 MVP: Multimodality-Guided Visual Pre-training
+1247 Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection
+1248 HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation
+1249 SPot-the-Difference Self-Supervised Pre-training for Anomaly Detection and Segmentation
+1250 Dual-Domain Self-Supervised Learning and Model Adaption for Deep Compressive Imaging
+1251 Unsupervised Selective Labeling for More Effective Semi-Supervised Learning
+1252 Max Pooling with Vision Transformers Reconciles Class and Shape in Weakly Supervised Semantic Segmentation
+1253 Dense Siamese Network for Dense Unsupervised Learning
+1254 Multi-Granularity Distillation Scheme towards Lightweight Semi-Supervised Semantic Segmentation
+1255 CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation
+1256 Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization
+1257 RDA: Reciprocal Distribution Alignment for Robust Semi-Supervised Learning
+1258 MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation
+1259 United Defocus Blur Detection and Deblurring via Adversarial Promoting Learning
+1260 Synergistic Self-Supervised and Quantization Learning
+1261 Semi-Supervised Vision Transformers
+1262 Domain Adaptive Video Segmentation via Temporal Pseudo Supervision
+1263 Diverse Learner: Exploring Diverse Supervision for Semi-Supervised Object Detection
+1264 A Closer Look at Invariances in Self-Supervised Pre-training for 3D Vision
+1265 ConMatch: Semi-Supervised Learning with Confidence-Guided Consistency Regularization
+1266 FedX: Unsupervised Federated Learning with Cross Knowledge Distillation
+1267 W2N: Switching from Weak Supervision to Noisy Supervision for Object Detection
+1268 Decoupled Adversarial Contrastive Learning for Self-Supervised Adversarial Robustness
+1269 GOCA: Guided Online Cluster Assignment for Self-Supervised Video Representation Learning
+1270 Constrained Mean Shift Using Distant Yet Related Neighbors for Representation Learning
+1271 Revisiting the Critical Factors of Augmentation-Invariant Representation Learning
+1272 CA-SSL: Class-Agnostic Semi-Supervised Learning for Detection and Segmentation
+1273 Dual Adaptive Transformations for Weakly Supervised Point Cloud Segmentation
+1274 Semantic-Aware Fine-Grained Correspondence
+1275 Self-Supervised Classification Network
+1276 Data Invariants to Understand Unsupervised Out-of-Distribution Detection
+1277 Domain Invariant Masked Autoencoders for Self-Supervised Learning from Multi-Domains
+1278 Semi-Supervised Object Detection via Virtual Category Learning
+1279 Completely Self-Supervised Crowd Counting via Distribution Matching
+1280 Coarse-to-Fine Incremental Few-Shot Learning
+1281 Learning Unbiased Transferability for Domain Adaptation by Uncertainty Modeling
+1282 Learn2Augment: Learning to Composite Videos for Data Augmentation in Action Recognition
+1283 CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation
+1284 PSS: Progressive Sample Selection for Open-World Visual Representation Learning
+1285 Improving Self-Supervised Lightweight Model Learning via Hard-Aware Metric Distillation
+1286 Object Discovery via Contrastive Learning for Weakly Supervised Object Detection
+1287 Stochastic Consensus: Enhancing Semi-Supervised Learning with Consistency of Stochastic Classifiers
+1288 DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model
+1289 Semi-Leak: Membership Inference Attacks against Semi-Supervised Learning
+1290 OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning
+1291 Embedding Contrastive Unsupervised Features to Cluster in- and Out-of-Distribution Noise in Corrupted Image Datasets
+1292 Unsupervised Few-Shot Image Classification by Learning Features into Clustering Space
+1293 Towards Realistic Semi-Supervised Learning
+1294 Masked Siamese Networks for Label-Efficient Learning
+1295 Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization
+1296 Understanding Collapse in Non-Contrastive Siamese Representation Learning
+1297 Federated Self-Supervised Learning for Video Understanding
+1298 Towards Efficient and Effective Self-Supervised Learning of Visual Representations
+1299 DSR – A Dual Subspace Re-Projection Network for Surface Anomaly Detection
+1300 PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds
+1301 MVSTER: Epipolar Transformer for Efficient Multi-View Stereo
+1302 RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild
+1303 R2L: Distilling Neural \textit{Radiance} Field to Neural \textit{Light} Field for Efficient Novel View Synthesis
+1304 KD-MVS: Knowledge Distillation Based Self-Supervised Learning for Multi-View Stereo
+1305 SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas
+1306 RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering
+1307 Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation Using Bounding Boxes
+1308 NeILF: Neural Incident Light Field for Physically-Based Material Estimation
+1309 ARF: Artistic Radiance Fields
+1310 Multiview Stereo with Cascaded Epipolar RAFT
+1311 ARAH: Animatable Volume Rendering of Articulated Human SDFs
+1312 ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer
+1313 NDF: Neural Deformable Fields for Dynamic Human Modelling
+1314 Neural Density-Distance Fields
+1315 NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer
+1316 Learning Online Multi-sensor Depth Fusion
+1317 BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-Scale Scene Rendering
+1318 Decomposing the Tangent of Occluding Boundaries according to Curvatures and Torsions
+1319 NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors
+1320 Generalizable Patch-Based Neural Rendering
+1321 Improving RGB-D Point Cloud Registration by Learning Multi-Scale Local Linear Transformation
+1322 Real-Time Neural Character Rendering with Pose-Guided Multiplane Images
+1323 SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse Views
+1324 Disentangling Object Motion and Occlusion for Unsupervised Multi-Frame Monocular Depth
+1325 Depth Field Networks for Generalizable Multi-View Scene Representation
+1326 Context-Enhanced Stereo Transformer
+1327 PCW-Net: Pyramid Combination and Warping Cost Volume for Stereo Matching
+1328 Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images
+1329 Latency-Aware Collaborative Perception
+1330 TensoRF: Tensorial Radiance Fields
+1331 NeFSAC: Neurally Filtered Minimal Samples
+1332 SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data
+1333 HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields
+1334 NeuMan: Neural Human Radiance Field from a Single Video
+1335 TAVA: Template-Free Animatable Volumetric Actors
+1336 EASNet: Searching Elastic and Accurate Network Architecture for Stereo Matching
+1337 Relative Pose from SIFT Features
+1338 Selection and Cross Similarity for Event-Image Deep Stereo
+1339 D3Net: A Unified Speaker-Listener Architecture for 3D Dense Captioning and Visual Grounding
+1340 CIRCLE: Convolutional Implicit Reconstruction and Completion for Large-Scale Indoor Scene
+1341 ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild
+1342 4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding
+1343 Few `\textit{Zero Level Set}'-Shot Learning of Shape Signed Distance Functions in Feature Space
+1344 Solution Space Analysis of Essential Matrix Based on Algebraic Error Minimization
+1345 Approximate Differentiable Rendering with Algebraic Surfaces
+1346 CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360° Indoor Panoramas
+1347 Affine Correspondences between Multi-Camera Systems for 6DOF Relative Pose Estimation
+1348 GraphFit: Learning Multi-Scale Graph-Convolutional Representation for Point Cloud Normal Estimation
+1349 IS-MVSNet: Importance Sampling-Based MVSNet
+1350 Point Scene Understanding via Disentangled Instance Mesh Reconstruction
+1351 DiffuStereo: High Quality Human Reconstruction via Diffusion-Based Stereo Using Sparse Cameras
+1352 Space-Partitioning RANSAC
+1353 SimpleRecon: 3D Reconstruction without 3D Convolutions
+1354 Structure and Motion from Casual Videos
+1355 What Matters for 3D Scene Flow Network
+1356 Correspondence Reweighted Translation Averaging
+1357 Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images
+1358 GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs
+1359 Objects Can Move: 3D Change Detection by Geometric Transformation Consistency
+1360 Language-Grounded Indoor 3D Semantic Segmentation in the Wild
+1361 Beyond Periodicity: Towards a Unifying Framework for Activations in Coordinate-MLPs
+1362 Deforming Radiance Fields with Cages
+1363 FLEX: Extrinsic Parameters-Free Multi-View 3D Human Motion Reconstruction
+1364 MODE: Multi-View Omnidirectional Depth Estimation with 360° Cameras
+1365 GigaDepth: Learning Depth from Structured Light with Branching Neural Networks
+1366 ActiveNeRF: Learning Where to See with Uncertainty Estimation
+1367 PoserNet: Refining Relative Camera Poses Exploiting Object Detections
+1368 Gaussian Activated Neural Radiance Fields for High Fidelity Reconstruction \& Pose Estimation
+1369 Unbiased Gradient Estimation for Differentiable Surface Splatting via Poisson Sampling
+1370 Towards Learning Neural Representations from Shadows
+1371 Class-Incremental Novel Class Discovery
+1372 Unknown-Oriented Learning for Open Set Domain Adaptation
+1373 Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation
+1374 DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation
+1375 Class-Agnostic Object Counting Robust to Intraclass Diversity
+1376 Burn after Reading: Online Adaptation for Cross-Domain Streaming Data
+1377 Mind the Gap in Distilling StyleGANs
+1378 Improving Test-Time Adaptation via Shift-Agnostic Weight Regularization and Nearest Source Prototypes
+1379 Learning Instance-Specific Adaptation for Cross-Domain Segmentation
+1380 RegionCL: Exploring Contrastive Region Pairs for Self-Supervised Representation Learning
+1381 Long-Tailed Class Incremental Learning
+1382 DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning
+1383 Adversarial Partial Domain Adaptation by Cycle Inconsistency
+1384 Combating Label Distribution Shift for Active Domain Adaptation
+1385 GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation
+1386 CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation
+1387 A Unified Framework for Domain Adaptive Pose Estimation
+1388 A Broad Study of Pre-training for Domain Generalization and Adaptation
+1389 Prior Knowledge Guided Unsupervised Domain Adaptation
+1390 GCISG: Guided Causal Invariant Learning for Improved Syn-to-Real Generalization
+1391 AcroFOD: An Adaptive Method for Cross-Domain Few-Shot Object Detection
+1392 Unsupervised Domain Adaptation for One-Stage Object Detector Using Offsets to Bounding Box
+1393 Visual Prompt Tuning
+1394 Quasi-Balanced Self-Training on Noise-Aware Synthesis of Object Point Clouds for Closing Domain Gap
+1395 Interpretable Open-Set Domain Adaptation via Angular Margin Separation
+1396 TACS: Taxonomy Adaptive Cross-Domain Semantic Segmentation
+1397 Prototypical Contrast Adaptation for Domain Adaptive Semantic Segmentation
+1398 RBC: Rectifying the Biased Context in Continual Semantic Segmentation
+1399 Factorizing Knowledge in Neural Networks
+1400 Contrastive Vicinal Space for Unsupervised Domain Adaptation
+1401 Cross-Modal Knowledge Transfer without Task-Relevant Source Data
+1402 Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions
+1403 Source-Free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition
+1404 BMD: A General Class-Balanced Multicentric Dynamic Prototype Strategy for Source-Free Domain Adaptation
+1405 Generalized Brain Image Synthesis with Transferable Convolutional Sparse Coding Networks
+1406 Incomplete Multi-View Domain Adaptation via Channel Enhancement and Knowledge Transfer
+1407 DistPro: Searching a Fast Knowledge Distillation Process via Meta Optimization
+1408 ML-BPM: Multi-Teacher Learning with Bidirectional Photometric Mixing for Open Compound Domain Adaptation in Semantic Segmentation
+1409 PACTran: PAC-Bayesian Metrics for Estimating the Transferability of Pretrained Models to Classification Tasks
+1410 Personalized Education: Blind Knowledge Distillation
+1411 Not All Models Are Equal: Predicting Model Transferability in a Self-Challenging Fisher Space
+1412 How Stable Are Transferability Metrics Evaluations?
+1413 Attention Diversification for Domain Generalization
+1414 ESS: Learning Event-Based Semantic Segmentation from Still Images
+1415 An Efficient Spatio-Temporal Pyramid Transformer for Action Detection
+1416 Human Trajectory Prediction via Neural Social Physics
+1417 Towards Open Set Video Anomaly Detection
+1418 ECLIPSE: Efficient Long-Range Video Retrieval Using Sight and Sound
+1419 Joint-Modal Label Denoising for Weakly-Supervised Audio-Visual Video Parsing
+1420 Less than Few: Self-Shot Video Instance Segmentation
+1421 Adaptive Face Forgery Detection in Cross Domain
+1422 Real-Time Online Video Detection with Temporal Smoothing Transformers
+1423 TALLFormer: Temporal Action Localization with a Long-Memory Transformer
+1424 Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation
+1425 TL;DW? Summarizing Instructional Videos with Task Relevance \& Cross-Modal Saliency
+1426 Rethinking Learning Approaches for Long-Term Action Anticipation
+1427 DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition
+1428 Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation
+1429 PAC-Net: Highlight Your Video via History Preference Modeling
+1430 How Severe Is Benchmark-Sensitivity in Video Self-Supervised Learning?
+1431 A Sliding Window Scheme for Online Temporal Action Localization
+1432 ERA: Expert Retrieval and Assembly for Early Action Prediction
+1433 Dual Perspective Network for Audio-Visual Event Localization
+1434 NSNet: Non-Saliency Suppression Sampler for Efficient Video Recognition
+1435 Video Activity Localisation with Uncertainties in Temporal Boundary
+1436 Temporal Saliency Query Network for Efficient Video Recognition
+1437 Efficient One-Stage Video Object Detection by Exploiting Temporal Consistency
+1438 Leveraging Action Affinity and Continuity for Semi-Supervised Temporal Action Segmentation
+1439 "Spotting Temporally Precise, Fine-Grained Events in Video"
+1440 Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation
+1441 Efficient Video Transformers with Spatial-Temporal Token Selection
+1442 Long Movie Clip Classification with State-Space Video Models
+1443 Prompting Visual-Language Models for Efficient Video Understanding
+1444 Asymmetric Relation Consistency Reasoning for Video Relation Grounding
+1445 Self-Supervised Social Relation Representation for Human Group Detection
+1446 K-Centered Patch Sampling for Efficient Video Recognition
+1447 A Deep Moving-Camera Background Model
+1448 GraphVid: It Only Takes a Few Nodes to Understand a Video
+1449 Delta Distillation for Efficient Video Processing
+1450 MorphMLP: An Efficient MLP-Like Backbone for Spatial-Temporal Representation Learning
+1451 COMPOSER: Compositional Reasoning of Group Activity in Videos with Keypoint-Only Modality
+1452 E-NeRV: Expedite Neural Video Representation with Disentangled Spatial-Temporal Context
+1453 TDViT: Temporal Dilated Video Transformer for Dense Video Tasks
+1454 Semi-Supervised Learning of Optical Flow by Flow Supervisor
+1455 Flow Graph to Video Grounding for Weakly-Supervised Multi-step Localization
+1456 Deep 360° Optical Flow Estimation Based on Multi-Projection Fusion
+1457 MaCLR: Motion-Aware Contrastive Learning of Representations for Videos
+1458 Learning Long-Term Spatial-Temporal Graphs for Active Speaker Detection
+1459 Frozen CLIP Models Are Efficient Video Learners
+1460 PIP: Physical Interaction Prediction via Mental Simulation with Span Selection
+1461 Panoramic Vision Transformer for Saliency Detection in 360° Videos
+1462 Bayesian Tracking of Video Graphs Using Joint Kalman Smoothing and Registration
+1463 Motion Sensitive Contrastive Learning for Self-Supervised Video Representation
+1464 Dynamic Temporal Filtering In Video Models
+1465 Tip-Adapter: Training-Free Adaption of CLIP for Few-Shot Classification
+1466 Temporal Lift Pooling for Continuous Sign Language Recognition
+1467 MORE: Multi-Order RElation Mining for Dense Captioning in 3D Scenes
+1468 SiRi: A Simple Selective Retraining Mechanism for Transformer-Based Visual Grounding
+1469 Cross-Modal Prototype Driven Network for Radiology Report Generation
+1470 TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts
+1471 SeqTR: A Simple Yet Universal Network for Visual Grounding
+1472 VTC: Improving Video-Text Retrieval with User Comments
+1473 FashionViL: Fashion-Focused Vision-and-Language Representation Learning
+1474 Weakly Supervised Grounding for VQA in Vision-Language Transformers
+1475 Automatic Dense Annotation of Large-Vocabulary Sign Language Videos
+1476 MILES: Visual BERT Pre-training with Injected Language Semantics for Video-Text Retrieval
+1477 "GEB+: A Benchmark for Generic Event Boundary Captioning, Grounding and Retrieval"
+1478 A Simple and Robust Correlation Filtering Method for Text-Based Person Search
+1479 Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing
+1480 Generative Negative Text Replay for Continual Vision-Language Pretraining
+1481 Video Graph Transformer for Video Question Answering
+1482 Trace Controlled Text to Image Generation
+1483 Video Question Answering with Iterative Video-Text Co-Tokenization
+1484 Rethinking Data Augmentation for Robust Visual Question Answering
+1485 Explicit Image Caption Editing
+1486 Can Shuffling Video Benefit Temporal Bias Problem: A Novel Training Framework for Temporal Grounding
+1487 Reliable Visual Question Answering: Abstain Rather Than Answer Incorrectly
+1488 GRIT: Faster and Better Image Captioning Transformer Using Dual Visual Features
+1489 Selective Query-Guided Debiasing for Video Corpus Moment Retrieval
+1490 Spatial and Visual Perspective-Taking via View Rotation and Relation Reasoning for Embodied Reference Understanding
+1491 Object-Centric Unsupervised Image Captioning
+1492 Contrastive Vision-Language Pre-training with Limited Resources
+1493 Learning Linguistic Association towards Efficient Text-Video Retrieval
+1494 ASSISTER: Assistive Navigation via Conditional Instruction Generation
+1495 X-DETR: A Versatile Architecture for Instance-Wise Vision-Language Tasks
+1496 Learning Disentanglement with Decoupled Labels for Vision-Language Navigation
+1497 Switch-BERT: Learning to Model Multimodal Interactions by Switching Attention and Input
+1498 Word-Level Fine-Grained Story Visualization
+1499 Unifying Event Detection and Captioning as Sequence Generation via Pre-training
+1500 Multimodal Transformer with Variable-Length Memory for Vision-and-Language Navigation
+1501 Fine-Grained Visual Entailment
+1502 Bottom Up Top down Detection Transformers for Language Grounding in Images and Point Clouds
+1503 New Datasets and Models for Contextual Reasoning in Visual Dialog
+1504 VisageSynTalk: Unseen Speaker Video-to-Speech Synthesis via Speech-Visage Feature Selection
+1505 Classification-Regression for Chart Comprehension
+1506 AssistQ: Affordance-Centric Question-Driven Task Completion for Egocentric Assistant
+1507 FindIt: Generalized Localization with Natural Language Queries
+1508 UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling
+1509 Scaling Open-Vocabulary Image Segmentation with Image-Level Labels
+1510 The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning
+1511 Speaker-Adaptive Lip Reading with User-Dependent Padding
+1512 TISE: Bag of Metrics for Text-to-Image Synthesis Evaluation
+1513 SemAug: Semantically Meaningful Image Augmentations for Object Detection through Language Grounding
+1514 Referring Object Manipulation of Natural Images with Conditional Classifier-Free Guidance
+1515 NewsStories: Illustrating Articles with Visual Summaries
+1516 Webly Supervised Concept Expansion for General Purpose Vision Models
+1517 FedVLN: Privacy-Preserving Federated Vision-and-Language Navigation
+1518 CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval
+1519 Language-Driven Artistic Style Transfer
+1520 Single-Stream Multi-level Alignment for Vision-Language Pretraining
+1521 Most and Least Retrievable Images in Visual-Language Query Systems
+1522 Sports Video Analysis on Large-Scale Data
+1523 Grounding Visual Representations with Texts for Domain Generalization
+1524 Bridging the Visual Semantic Gap in VLN via Semantically Richer Instructions
+1525 StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation
+1526 VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance
+1527 Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation
+1528 End-to-End Active Speaker Detection
+1529 Emotion Recognition for Multiple Context Awareness
+1530 Adaptive Fine-Grained Sketch-Based Image Retrieval
+1531 Quantized GAN for Complex Music Generation from Dance Videos
+1532 Uncertainty-Aware Multi-modal Learning via Cross-Modal Random Network Prediction
+1533 Localizing Visual Sounds the Easy Way
+1534 Learning Visual Styles from Audio-Visual Associations
+1535 Remote Respiration Monitoring of Moving Person Using Radio Signals
+1536 Camera Pose Estimation and Localization with Active Audio Sensing
+1537 PACS: A Dataset for Physical Audiovisual Commonsense Reasoning
+1538 VoViT: Low Latency Graph-Based Audio-Visual Voice Separation Transformer
+1539 Telepresence Video Quality Assessment
+1540 MultiMAE: Multi-modal Multi-task Masked Autoencoders
+1541 AudioScopeV2: Audio-Visual Attention Architectures for Calibrated Open-Domain On-Screen Sound Separation
+1542 Audio—Visual Segmentation
+1543 Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression
+1544 Relationformer: A Unified Framework for Image-to-Graph Generation
+1545 GAMa: Cross-view Video Geo-localization
+1546 Revisiting a kNN-based Image Classification System with High-capacity Storage
+1547 Geometric Representation Learning for Document Image Rectification
+1548 S2-VER: Semi-Supervised Visual Emotion Recognition
+1549 Image Coding for Machines with Omnipotent Feature Learning
+1550 Feature Representation Learning for Unsupervised Cross-Domain Image Retrieval
+1551 "Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition"
+1552 Semantic-Guided Multi-Mask Image Harmonization
+1553 Learning an Isometric Surface Parameterization for Texture Unwrapping
+1554 Towards Regression-Free Neural Networks for Diverse Compute Platforms
+1555 Relationship Spatialization for Depth Estimation
+1556 Image2Point: 3D Point-Cloud Understanding with 2D Image Pretrained Models
+1557 FAR: Fourier Aerial Video Recognition
+1558 Translating a Visual LEGO Manual to a Machine-Executable Plan
+1559 Fabric Material Recovery from Video Using Multi-Scale Geometric Auto-Encoder
+1560 MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment
+1561 The One Where They Reconstructed 3D Humans and Environments in TV Shows
+1562 TALISMAN: Targeted Active Learning for Object Detection with Rare Classes and Slices Using Submodular Mutual Information
+1563 An Efficient Person Clustering Algorithm for Open Checkout-Free Groceries
+1564 POP: Mining POtential Performance of New Fashion Products via Webly Cross-Modal Query Expansion
+1565 Pose Forecasting in Industrial Human-Robot Collaboration
+1566 Actor-Centered Representations for Action Localization in Streaming Videos
+1567 Bandwidth-Aware Adaptive Codec for DNN Inference Offloading in IoT
+1568 Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment
+1569 Responsive Listening Head Generation: A Benchmark Dataset and Baseline
+1570 "Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics"
+1571 TIPS: Text-Induced Pose Synthesis
+1572 Addressing Heterogeneity in Federated Learning via Distributional Transformation
+1573 Where in the World Is This Image? Transformer-Based Geo-Localization in the Wild
+1574 Colorization for In Situ Marine Plankton Images
+1575 Efficient Deep Visual and Inertial Odometry with Adaptive Visual Modality Selection
+1576 A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch
+1577 A Cloud 3D Dataset and Application-Specific Learned Image Compression in Cloud 3D
+1578 AutoTransition: Learning to Recommend Video Transition Effects
+1579 Online Segmentation of LiDAR Sequences: Dataset and Algorithm
+1580 Open-World Semantic Segmentation for LIDAR Point Clouds
+1581 KING: Generating Safety-Critical Driving Scenarios for Robust Imitation via Kinematics Gradients
+1582 Differentiable Raycasting for Self-Supervised Occupancy Forecasting
+1583 InAction: Interpretable Action Decision Making for Autonomous Driving
+1584 CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection
+1585 CODA: A Real-World Road Corner Case Dataset for Object Detection in Autonomous Driving
+1586 Motion Inspired Unsupervised Perception and Prediction in Autonomous Driving
+1587 StretchBEV: Stretching Future Instance Prediction Spatially and Temporally
+1588 RCLane: Relay Chain Prediction for Lane Detection
+1589 Drive\&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-Modal Distillation
+1590 CenterFormer: Center-based Transformer for 3D Object Detection
+1591 Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches
+1592 ST-P3: End-to-End Vision-Based Autonomous Driving via Spatial-Temporal Feature Learning
+1593 PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark
+1594 PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation
+1595 BRNet: Exploring Comprehensive Features for Monocular Depth Estimation
+1596 SiamDoGe: Domain Generalizable Semantic Segmentation Using Siamese Network
+1597 Context-Aware Streaming Perception in Dynamic Environments
+1598 SpOT: Spatiotemporal Modeling for 3D Object Tracking
+1599 Multimodal Transformer for Automatic 3D Annotation and Object Detection
+1600 Dynamic 3D Scene Analysis by Point Cloud Accumulation
+1601 Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection
+1602 "JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes"
+1603 Semi-Supervised 3D Object Detection with Proficient Teachers
+1604 Point Cloud Compression with Sibling Context and Surface Priors
+1605 Lane Detection Transformer Based on Multi-Frame Horizontal and Vertical Attention and Visual Transformer Module
+1606 ProposalContrast: Unsupervised Pre-training for LiDAR-Based 3D Object Detection
+1607 PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map
+1608 Master of All: Simultaneous Generalization of Urban-Scene Segmentation to All Adverse Weather Conditions
+1609 LESS: Label-Efficient Semantic Segmentation for LiDAR Point Clouds
+1610 Visual Cross-View Metric Localization with Dense Uncertainty Estimates
+1611 V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer
+1612 DevNet: Self-Supervised Monocular Depth Learning via Density Volume Construction
+1613 Action-Based Contrastive Learning for Trajectory Prediction
+1614 Radatron: Accurate Detection Using Multi-Resolution Cascaded MIMO Radar
+1615 LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection
+1616 Efficient Point Cloud Segmentation with Geometry-Aware Sparse Networks
+1617 FH-Net: A Fast Hierarchical Network for Scene Flow Estimation on Real-World Point Clouds
+1618 SpatialDETR: Robust Scalable Transformer-Based 3D Object Detection from Multi-View Camera Images with Global Cross-Sensor Attention
+1619 Pixel-Wise Energy-Biased Abstention Learning for Anomaly Segmentation on Complex Urban Driving Scenes
+1620 Rethinking Closed-Loop Training for Autonomous Driving
+1621 SLiDE: Self-Supervised LiDAR De-Snowing through Reconstruction Difficulty
+1622 Generative Meta-Adversarial Network for Unseen Object Navigation
+1623 Object Manipulation via Visual Target Localization
+1624 MoDA: Map Style Transfer for Self-Supervised Domain Adaptation of Embodied Agents
+1625 Housekeep: Tidying Virtual Households Using Commonsense Reasoning
+1626 Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects
+1627 Resolving Copycat Problems in Visual Imitation Learning via Residual Action Prediction
+1628 OPD: Single-View 3D Openable Part Detection
+1629 AirDet: Few-Shot Detection without Fine-Tuning for Autonomous Exploration
+1630 TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance
+1631 StARformer: Transformer with State-Action-Reward Representations for Visual Reinforcement Learning
+1632 TIDEE: Tidying Up Novel Rooms Using Visuo-Semantic Commonsense Priors
+1633 Learning Efficient Multi-agent Cooperative Visual Exploration
+1634 Zero-Shot Category-Level Object Pose Estimation
+1635 Sim-to-Real 6D Object Pose Estimation via Iterative Self-Training for Robotic Bin Picking
+1636 Active Audio-Visual Separation of Dynamic Sound Sources
+1637 DexMV: Imitation Learning for Dexterous Manipulation from Human Videos
+1638 Sim-2-Sim Transfer for Vision-and-Language Navigation in Continuous Environments
+1639 Style-Agnostic Reinforcement Learning
+1640 Self-Supervised Interactive Object Segmentation through a Singulation-and-Grasping Approach
+1641 Learning from Unlabeled 3D Environments for Vision-and-Language Navigation
+1642 "BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking"
+1643 FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion
+1644 Learning Algebraic Representation for Systematic Generalization in Abstract Reasoning
+1645 Video Dialog As Conversation about Objects Living in Space-Time
